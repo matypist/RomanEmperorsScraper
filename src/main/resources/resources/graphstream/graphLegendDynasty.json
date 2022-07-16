@@ -1,0 +1,270 @@
+{
+  "dynasties": {
+    "fakeurl://graphLegendDynasty": {
+      "pageTitle": "Graph Legend Dynasty",
+      "name": "Graph Legend Dynasty",
+      "foundationDate": null,
+      "depositionDate": null,
+      "founderPageUrl": "fakeurl://Emperor"
+    }
+  },
+  "people": {
+    "fakeurl://Mother": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Mother",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": "fakeurl://graphLegendDynasty"
+    },
+    "fakeurl://Father": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Father",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": "fakeurl://graphLegendDynasty"
+    },
+    "fakeurl://Adoptive_father": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {
+        "Emperor": "fakeurl://Emperor"
+      },
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Adoptive father",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": "fakeurl://graphLegendDynasty"
+    },
+    "fakeurl://Successor": {
+      "spouses": {
+        "Successor's spouse": "fakeurl://SuccessorSpouse"
+      },
+      "adoptiveFather": {
+        "fullName": "Emperor",
+        "url": "fakeurl://Emperor"
+      },
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Successor's father",
+        "url": "fakeurl://SuccessorFather"
+      },
+      "reignEndDate": null,
+      "successors": {
+        "Successor 2": "fakeurl://Successor2"
+      },
+      "fullName": "Successor",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": "fakeurl://graphLegendDynasty"
+    },
+    "fakeurl://SuccessorFather": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Successor's father",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {
+        "Successor": "fakeurl://Successor"
+      },
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": "fakeurl://graphLegendDynasty"
+    },
+    "fakeurl://SuccessorSpouse": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Successor's spouse",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": "fakeurl://graphLegendDynasty"
+    },
+    "fakeurl://Successor2": {
+      "spouses": {},
+      "adoptiveFather": {},
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {},
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Successor 2",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": "fakeurl://graphLegendDynasty"
+    },
+    "fakeurl://Spouse-1": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Spouse 1",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": "fakeurl://graphLegendDynasty"
+    },
+    "fakeurl://Spouse-2": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Spouse 2",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": "fakeurl://graphLegendDynasty"
+    },
+    "fakeurl://Emperor": {
+      "spouses": {
+        "Spouse 1": "fakeurl://Spouse-1",
+        "Spouse 2": "fakeurl://Spouse-2"
+      },
+      "adoptiveFather": {
+        "fullName": "Adoptive father",
+        "url": "fakeurl://Adoptive_father"
+      },
+      "role": "Emperor",
+      "adoptedChildren": {
+        "Adopted son / daughter": "fakeurl://Adopted_son-daughter"
+      },
+      "father": {
+        "fullName": "Father",
+        "url": "fakeurl://Father"
+      },
+      "reignEndDate": null,
+      "successors": {
+        "Successor": "fakeurl://Successor"
+      },
+      "fullName": "Emperor",
+      "birthDate": null,
+      "mother": {
+        "fullName": "Mother",
+        "url": "fakeurl://Mother"
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Son / daughter 1": "fakeurl://Son-daughter_1",
+        "Son / daughter 2": "fakeurl://Son-daughter_2"
+      },
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": "fakeurl://graphLegendDynasty"
+    },
+    "fakeurl://Son-daughter_1": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Son / daughter 1",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": "fakeurl://graphLegendDynasty"
+    },
+    "fakeurl://Son-daughter_2": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Son / daughter 2",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": "fakeurl://graphLegendDynasty"
+    },
+    "fakeurl://Adopted_son-daughter": {
+      "spouses": {},
+      "adoptiveFather": {
+        "fullName": "Emperor",
+        "url": "fakeurl://Emperor"
+      },
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Adopted son / daughter",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": "fakeurl://graphLegendDynasty"
+    }
+  }
+}

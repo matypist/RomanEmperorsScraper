@@ -1,0 +1,48 @@
+edge {
+    size: 2px;
+    arrow-shape: arrow;
+}
+
+edge.mother {
+    fill-color: orange;
+}
+
+edge.father {
+    fill-color: orange;
+}
+
+edge.adoptivefather {
+    fill-color: orange;
+}
+
+edge.successor {
+    fill-color: red;
+}
+
+edge.spouse {
+    fill-color: rgb(157, 34, 53);
+}
+
+edge.children {
+    fill-color: red;
+}
+
+edge.adoptedchildren {
+    fill-color: red;
+}
+
+node {
+    size-mode: fit;
+    shape: box;
+    fill-color: white;
+    stroke-width: 2;
+    stroke-mode: plain;
+    stroke-color: white;
+    text-alignment: center;
+    padding: 3px, 2px;
+}
+
+node.regnant {
+    text-style: bold;
+    fill-color: gold;
+}

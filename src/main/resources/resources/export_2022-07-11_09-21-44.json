@@ -1,0 +1,3194 @@
+{
+  "dynasties": {
+    "https://it.wikipedia.org/wiki/Dinastia_costantiniana": {
+      "foundationDate": "293",
+      "pageTitle": "Dinastia costantiniana",
+      "name": "Constantinian Dynasty",
+      "depositionDate": "363 d.C.",
+      "founderPageUrl": "https://it.wikipedia.org/wiki/Costanzo_Cloro"
+    },
+    "https://it.wikipedia.org/wiki/Imperatori_adottivi": {
+      "foundationDate": "96",
+      "pageTitle": "Imperatori adottivi",
+      "name": "Nerva-Antonine Dynasty",
+      "depositionDate": "192 d.C.",
+      "founderPageUrl": "https://it.wikipedia.org/wiki/Nerva"
+    },
+    "https://it.wikipedia.org/wiki/Dinastia_giulio-claudia": {
+      "foundationDate": "27 a.C.",
+      "pageTitle": "Dinastia giulio-claudia",
+      "name": "Julio-Claudian Dynasty",
+      "depositionDate": "68 d.C.",
+      "founderPageUrl": "https://it.wikipedia.org/wiki/Augusto"
+    },
+    "https://it.wikipedia.org/wiki/Dinastia_flavia": {
+      "foundationDate": "69",
+      "pageTitle": "Dinastia flavia",
+      "name": "Flavian Dynasty",
+      "depositionDate": "96 d.C.",
+      "founderPageUrl": "https://it.wikipedia.org/wiki/Vespasiano"
+    },
+    "https://it.wikipedia.org/wiki/Dinastia_valeriana": {
+      "foundationDate": "253",
+      "pageTitle": "Dinastia valeriana",
+      "name": "Valerian Dynasty",
+      "depositionDate": "68 d.C.",
+      "founderPageUrl": "https://it.wikipedia.org/wiki/Valeriano"
+    },
+    "https://it.wikipedia.org/wiki/Dinastia_dei_Severi": {
+      "foundationDate": "193",
+      "pageTitle": "Dinastia dei Severi",
+      "name": "Severan Dynasty",
+      "depositionDate": "235 d.C.",
+      "founderPageUrl": "https://it.wikipedia.org/wiki/Settimio_Severo"
+    }
+  },
+  "people": {
+    "https://it.wikipedia.org/wiki/Annibaliano": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Annibaliano",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hannibalianus_-_Follis_s3935.jpg/310px-Hannibalianus_-_Follis_s3935.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Claudia_Augusta": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Claudia Augusta",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Statue_of_a_Young_Princess.jpg/220px-Statue_of_a_Young_Princess.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Flavia_Massima_Faustina_Costanza": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Flavia Massima Faustina Costanza",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Gaio_Giulio_Cesare": {
+      "spouses": {
+        "Calpurnia": "https://it.wikipedia.org/wiki/Calpurnia",
+        "Pompea Silla": "https://it.wikipedia.org/wiki/Pompea_Silla",
+        "Cornelia": "https://it.wikipedia.org/wiki/Cornelia_(moglie_di_Cesare)"
+      },
+      "adoptiveFather": null,
+      "role": "Dictator",
+      "adoptedChildren": {
+        "Ottaviano": "https://it.wikipedia.org/wiki/Augusto"
+      },
+      "father": {
+        "fullName": "Gaio Giulio Cesare",
+        "url": "https://it.wikipedia.org/wiki/Gaio_Giulio_Cesare_(padre_di_Cesare)"
+      },
+      "reignEndDate": "44 a.C.",
+      "successors": {},
+      "fullName": "Gaio Giulio Cesare",
+      "birthDate": "13 luglio 101 a.C. o 12 luglio 100 a.C.",
+      "mother": {
+        "fullName": "Aurelia Cotta",
+        "url": "https://it.wikipedia.org/wiki/Aurelia_Cotta"
+      },
+      "reignBeginningDate": "49 a.C",
+      "children": {
+        "Cesarione": "https://it.wikipedia.org/wiki/Tolomeo_XV",
+        "Giulia": "https://it.wikipedia.org/wiki/Giulia_(figlia_di_Cesare)"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gaius_Iulius_Caesar_%28Vatican_Museum%29.jpg/165px-Gaius_Iulius_Caesar_%28Vatican_Museum%29.jpg",
+      "deathDate": "15 marzo 44 a.C.",
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Tiberio": {
+      "spouses": {
+        "Vipsania Agrippina": "https://it.wikipedia.org/wiki/Vipsania_Agrippina",
+        "Giulia maggiore": "https://it.wikipedia.org/wiki/Giulia_maggiore_(figlia_di_Augusto)"
+      },
+      "adoptiveFather": {
+        "fullName": "Augusto",
+        "url": "https://it.wikipedia.org/wiki/Augusto"
+      },
+      "role": "Emperor",
+      "adoptedChildren": {
+        "Germanico Giulio Cesare": "https://it.wikipedia.org/wiki/Germanico_Giulio_Cesare"
+      },
+      "father": {
+        "fullName": "Tiberio Claudio Nerone",
+        "url": "https://it.wikipedia.org/wiki/Tiberio_Claudio_Nerone_(pretore_42_a.C.)"
+      },
+      "reignEndDate": "16 marzo 37 d.C",
+      "successors": {
+        "Caligola": "https://it.wikipedia.org/wiki/Caligola"
+      },
+      "fullName": "Tiberio",
+      "birthDate": "16 novembre 42 a.C.",
+      "mother": {
+        "fullName": "Livia Drusilla",
+        "url": "https://it.wikipedia.org/wiki/Livia_Drusilla"
+      },
+      "reignBeginningDate": "17 settembre 14 d.C",
+      "children": {
+        "Druso minore": "https://it.wikipedia.org/wiki/Druso_minore"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Ritratto_di_tiberio_tipo_imperium_maius%2C_13_dc_ca.jpg/210px-Ritratto_di_tiberio_tipo_imperium_maius%2C_13_dc_ca.jpg",
+      "deathDate": "16 marzo 37 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_giulio-claudia"
+    },
+    "https://it.wikipedia.org/wiki/Plauzia_Urgulanilla": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Plauzia Urgulanilla",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Plautia_Urgulanilla.jpg/220px-Plautia_Urgulanilla.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Vespasiano": {
+      "spouses": {
+        "Flavia Domitilla": "https://it.wikipedia.org/wiki/Flavia_Domitilla_maggiore",
+        "Caenis": "https://it.wikipedia.org/wiki/Antonia_Caenis"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Tito Flavio Sabino",
+        "url": "https://it.wikipedia.org/wiki/Tito_Flavio_Sabino_(padre_di_Vespasiano)"
+      },
+      "reignEndDate": "23 giugno 79 d.C",
+      "successors": {
+        "Tito": "https://it.wikipedia.org/wiki/Tito_(imperatore_romano)"
+      },
+      "fullName": "Vespasiano",
+      "birthDate": "17 novembre 9 d.C",
+      "mother": {
+        "fullName": "Vespasia Polla",
+        "url": "https://it.wikipedia.org/wiki/Vespasia_Polla"
+      },
+      "reignBeginningDate": "1 luglio 69 d.C",
+      "children": {
+        "Domiziano": "https://it.wikipedia.org/wiki/Domiziano",
+        "Tito": "https://it.wikipedia.org/wiki/Tito_(imperatore_romano)",
+        "Flavia Domitilla minore": "https://it.wikipedia.org/wiki/Flavia_Domitilla_minore"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Vespasian%2C_from_Minturnae_%28Minturno%2C_Italy%29%2C_69-79_AD%2C_Palazzo_Massimo_alle_Terme%2C_Rome_%2813643241633%29.jpg/193px-Vespasian%2C_from_Minturnae_%28Minturno%2C_Italy%29%2C_69-79_AD%2C_Palazzo_Massimo_alle_Terme%2C_Rome_%2813643241633%29.jpg",
+      "deathDate": "23 giugno 79 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_flavia"
+    },
+    "https://it.wikipedia.org/wiki/Marco_Ulpio_Traiano_(padre)": {
+      "spouses": {
+        "Marcia": "https://it.wikipedia.org/wiki/Marcia_(madre_di_Traiano)"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Marco Ulpio Traiano",
+      "birthDate": "30 d.C",
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {
+        "Traiano": "https://it.wikipedia.org/wiki/Traiano",
+        "Ulpia Marciana": "https://it.wikipedia.org/wiki/Ulpia_Marciana"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bust_of_Marcus_Ulpius_Traianus_the_Elder_at_the_National_Museum_of_Serbia.jpg/169px-Bust_of_Marcus_Ulpius_Traianus_the_Elder_at_the_National_Museum_of_Serbia.jpg",
+      "deathDate": "100 d.C",
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Gaio_Cesare": {
+      "spouses": {
+        "Claudia Livilla": "https://it.wikipedia.org/wiki/Claudia_Livilla"
+      },
+      "adoptiveFather": {
+        "fullName": "Augusto",
+        "url": "https://it.wikipedia.org/wiki/Augusto"
+      },
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Marco Vipsanio Agrippa",
+        "url": "https://it.wikipedia.org/wiki/Marco_Vipsanio_Agrippa"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Gaio Cesare",
+      "birthDate": "20 a.C.",
+      "mother": {
+        "fullName": "Giulia maggiore",
+        "url": "https://it.wikipedia.org/wiki/Giulia_maggiore_(figlia_di_Augusto)"
+      },
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Gaius_Cesar_BM_GR1870.07-05.1_n1.jpg/200px-Gaius_Cesar_BM_GR1870.07-05.1_n1.jpg",
+      "deathDate": "21 febbraio 4 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_giulio-claudia"
+    },
+    "https://it.wikipedia.org/wiki/Geta": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Settimio Severo",
+        "url": "https://it.wikipedia.org/wiki/Settimio_Severo"
+      },
+      "reignEndDate": "26 dicembre 211 d.C",
+      "successors": {
+        "Caracalla": "https://it.wikipedia.org/wiki/Caracalla"
+      },
+      "fullName": "Geta",
+      "birthDate": "7 marzo 189 d.C",
+      "mother": {
+        "fullName": "Giulia Domna",
+        "url": "https://it.wikipedia.org/wiki/Giulia_Domna"
+      },
+      "reignBeginningDate": "209 d.C",
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Publius_Septimius_Geta_Louvre_Ma1076.jpg/254px-Publius_Septimius_Geta_Louvre_Ma1076.jpg",
+      "deathDate": "26 dicembre 211 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_dei_Severi"
+    },
+    "https://it.wikipedia.org/wiki/Alessandro_Severo": {
+      "spouses": {
+        "Sallustia Orbiana": "https://it.wikipedia.org/wiki/Sallustia_Orbiana"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Marco Giulio Gessio Marciano",
+        "url": "https://it.wikipedia.org/wiki/Marco_Giulio_Gessio_Marciano"
+      },
+      "reignEndDate": "18/19 marzo 235 d.C",
+      "successors": {
+        "Massimino il Trace": "https://it.wikipedia.org/wiki/Massimino_il_Trace"
+      },
+      "fullName": "Alessandro Severo",
+      "birthDate": "ottobre 208 d.C",
+      "mother": {
+        "fullName": "Giulia Mamea",
+        "url": "https://it.wikipedia.org/wiki/Giulia_Mamea"
+      },
+      "reignBeginningDate": "13 marzo 222 d.C",
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Alexander_Severus_Musei_Capitolini_MC471.jpg/225px-Alexander_Severus_Musei_Capitolini_MC471.jpg",
+      "deathDate": "18/19 marzo 235 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_dei_Severi"
+    },
+    "https://it.wikipedia.org/wiki/Galba": {
+      "spouses": {
+        "Emilia Lepida": null
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Gaio Sulpicio Galba",
+        "url": "https://it.wikipedia.org/wiki/Gaio_Sulpicio_Galba_(console_5_a.C.)"
+      },
+      "reignEndDate": "15 gennaio 69 d.C",
+      "successors": {
+        "Otone": "https://it.wikipedia.org/wiki/Otone"
+      },
+      "fullName": "Galba",
+      "birthDate": "24 dicembre 3 a.C.",
+      "mother": {
+        "fullName": "Mummia Acaica",
+        "url": "https://it.wikipedia.org/wiki/Mummia_Acaica"
+      },
+      "reignBeginningDate": "9 giugno 68 d.C",
+      "children": {
+        "Due maschi morti in tenera età": null
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Stockholm_-_Antikengalerie_4_-_B%C3%BCste_Kaiser_Galba.jpg/195px-Stockholm_-_Antikengalerie_4_-_B%C3%BCste_Kaiser_Galba.jpg",
+      "deathDate": "15 gennaio 69 d.C",
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Gioviano": {
+      "spouses": {
+        "Charito": "https://it.wikipedia.org/wiki/Charito"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": "17 febbraio 364 d.C",
+      "successors": {
+        "Valentiniano I": "https://it.wikipedia.org/wiki/Valentiniano_I"
+      },
+      "fullName": "Gioviano",
+      "birthDate": "331 d.C",
+      "mother": null,
+      "reignBeginningDate": "27 giugno 363 d.C",
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Siliqua_Jovianus.jpg/260px-Siliqua_Jovianus.jpg",
+      "deathDate": "17 febbraio 364 d.C",
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Arrecina_Tertulla": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Arrecina Tertulla",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Arrecina_Tertulla.jpg/220px-Arrecina_Tertulla.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Publio_Elio_Adriano_Afro": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Publio Elio Adriano Afro",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Publius_Aelius_Hadrianus_Afer.jpg/220px-Publius_Aelius_Hadrianus_Afer.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Faustina_minore": {
+      "spouses": {
+        "Marco Aurelio": "https://it.wikipedia.org/wiki/Marco_Aurelio"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Antonino Pio",
+        "url": "https://it.wikipedia.org/wiki/Antonino_Pio"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Faustina minore",
+      "birthDate": "130 d.C",
+      "mother": {
+        "fullName": "Faustina maggiore",
+        "url": "https://it.wikipedia.org/wiki/Faustina_maggiore"
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Annia Aurelia Galeria Lucilla": "https://it.wikipedia.org/wiki/Annia_Aurelia_Galeria_Lucilla",
+        "Tito Elio Aurelio": null,
+        "Gemellus Lucillae": null,
+        "Cornificia": "https://it.wikipedia.org/wiki/Cornificia",
+        "Vibia Aurelia Sabina": "https://it.wikipedia.org/wiki/Vibia_Aurelia_Sabina",
+        "Marco Annio Vero Cesare": "https://it.wikipedia.org/wiki/Marco_Annio_Vero_Cesare",
+        "Fadilla": "https://it.wikipedia.org/wiki/Fadilla",
+        "Tito Aurelio Fulvio Antonino": "https://it.wikipedia.org/wiki/Tito_Aurelio_Fulvio_Antonino",
+        "Domizia Faustina": null,
+        "Commodo": "https://it.wikipedia.org/wiki/Commodo",
+        "Annia Aurelia Galeria Faustina": "https://it.wikipedia.org/wiki/Annia_Aurelia_Galeria_Faustina",
+        "Tito Elio Antonino": null,
+        "Adriano": null
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/L%27Image_et_le_Pouvoir_-_Buste_de_Faustine_la_jeune_-_3-4.jpg/200px-L%27Image_et_le_Pouvoir_-_Buste_de_Faustine_la_jeune_-_3-4.jpg",
+      "deathDate": "175 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_degli_Antonini"
+    },
+    "https://it.wikipedia.org/wiki/Gneo_Domizio_Enobarbo_(console_32)": {
+      "spouses": {
+        "Agrippina minore": "https://it.wikipedia.org/wiki/Agrippina_minore"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Lucio Domizio Enobarbo",
+        "url": "https://it.wikipedia.org/wiki/Lucio_Domizio_Enobarbo_(console_16_a.C.)"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Gneo Domizio Enobarbo",
+      "birthDate": "a.C.",
+      "mother": {
+        "fullName": "Antonia maggiore",
+        "url": "https://it.wikipedia.org/wiki/Antonia_maggiore"
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Nerone": "https://it.wikipedia.org/wiki/Nerone"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Domizio_enobarbo%2C_padre_di_nerone%2C_busto_di_restauro%2C_inv._2222.JPG/191px-Domizio_enobarbo%2C_padre_di_nerone%2C_busto_di_restauro%2C_inv._2222.JPG",
+      "deathDate": "40 d.C",
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Flavio_Dalmazio_(cesare)": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Dalmazio",
+        "url": "https://it.wikipedia.org/wiki/Flavio_Dalmazio_(censore)"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Dalmazio",
+      "birthDate": "320 d.C",
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/it/thumb/7/79/Dalmazio_rome_RIC_395.jpg/260px-Dalmazio_rome_RIC_395.jpg",
+      "deathDate": "agosto/inizi settembre 337 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_costantiniana"
+    },
+    "https://it.wikipedia.org/wiki/Druso_maggiore": {
+      "spouses": {
+        "Antonia minore": "https://it.wikipedia.org/wiki/Antonia_minore"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Tiberio Claudio Nerone",
+        "url": "https://it.wikipedia.org/wiki/Tiberio_Claudio_Nerone_(pretore_42_a.C.)"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Druso maggiore",
+      "birthDate": "14 gennaio 38 a.C.",
+      "mother": {
+        "fullName": "Livia Drusilla",
+        "url": "https://it.wikipedia.org/wiki/Livia_Drusilla"
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Claudia Livilla": "https://it.wikipedia.org/wiki/Claudia_Livilla",
+        "Claudio": "https://it.wikipedia.org/wiki/Claudio",
+        "Germanico": "https://it.wikipedia.org/wiki/Germanico_Giulio_Cesare"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Drusus_l%27ancien_Rome_augGP2014.jpg/208px-Drusus_l%27ancien_Rome_augGP2014.jpg",
+      "deathDate": "9 a.C.",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_giulio-claudia"
+    },
+    "https://it.wikipedia.org/wiki/Eliogabalo": {
+      "spouses": {
+        "Aquilia Severa": "https://it.wikipedia.org/wiki/Aquilia_Severa",
+        "Annia Faustina": "https://it.wikipedia.org/wiki/Annia_Faustina",
+        "Giulia Cornelia Paula": "https://it.wikipedia.org/wiki/Giulia_Cornelia_Paula"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {
+        "Alessandro Severo": "https://it.wikipedia.org/wiki/Alessandro_Severo"
+      },
+      "father": {
+        "fullName": "Sesto Vario Marcello",
+        "url": "https://it.wikipedia.org/wiki/Sesto_Vario_Marcello"
+      },
+      "reignEndDate": "11 marzo 222 d.C",
+      "successors": {
+        "Alessandro Severo": "https://it.wikipedia.org/wiki/Alessandro_Severo"
+      },
+      "fullName": "Eliogabalo",
+      "birthDate": "203 d.C",
+      "mother": {
+        "fullName": "Giulia Soemia",
+        "url": "https://it.wikipedia.org/wiki/Giulia_Soemia"
+      },
+      "reignBeginningDate": "16 maggio 218 d.C",
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bust_of_Elagabalus_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/191px-Bust_of_Elagabalus_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+      "deathDate": "11 marzo 222 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_dei_Severi"
+    },
+    "https://it.wikipedia.org/wiki/Lucio_Elio_Cesare": {
+      "spouses": {
+        "Avidia Plauzia": null
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Lucio Ceionio Commodo Vero",
+        "url": null
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Lucio Elio",
+      "birthDate": "13 gennaio 101 d.C",
+      "mother": {
+        "fullName": "Fundania Plauzia",
+        "url": null
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Lucio Vero": "https://it.wikipedia.org/wiki/Lucio_Vero",
+        "Ceionia Fabia": "https://it.wikipedia.org/wiki/Ceionia_Fabia",
+        "Ceionia Plauzia": null
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Portrait_Lucius_Aelius_Louvre_Ma1167.jpg/198px-Portrait_Lucius_Aelius_Louvre_Ma1167.jpg",
+      "deathDate": "gennaio 138 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_degli_Antonini"
+    },
+    "https://it.wikipedia.org/wiki/Annia_Faustina": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Annia Faustina",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/AnniaFaustina.jpg/220px-AnniaFaustina.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Tito_Aurelio_Fulvio_Antonino": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Tito Aurelio Fulvio Antonino",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Faustine-rev_01.jpg/220px-Faustine-rev_01.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Flavia_Giulia_Elena": {
+      "spouses": {
+        "Costanzo Cloro": "https://it.wikipedia.org/wiki/Costanzo_Cloro"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Elena",
+      "birthDate": "248 d.C",
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {
+        "Costantino I": "https://it.wikipedia.org/wiki/Costantino_I"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Statua_seduta_di_Flavia_Iulia_Elena%2C_IV_sec%2C_rielaborazione_di_un%27afrodite_di_fidia.JPG/260px-Statua_seduta_di_Flavia_Iulia_Elena%2C_IV_sec%2C_rielaborazione_di_un%27afrodite_di_fidia.JPG",
+      "deathDate": "329 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_costantiniana"
+    },
+    "https://it.wikipedia.org/wiki/Caligola": {
+      "spouses": {
+        "Milonia Cesonia": "https://it.wikipedia.org/wiki/Milonia_Cesonia",
+        "Giunia Claudia": "https://it.wikipedia.org/wiki/Giunia_Claudia",
+        "Livia Orestilla": "https://it.wikipedia.org/wiki/Livia_Orestilla",
+        "Lollia Paolina": "https://it.wikipedia.org/wiki/Lollia_Paolina"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {
+        "Tiberio Gemello": "https://it.wikipedia.org/wiki/Tiberio_Gemello"
+      },
+      "father": {
+        "fullName": "Germanico Giulio Cesare",
+        "url": "https://it.wikipedia.org/wiki/Germanico_Giulio_Cesare"
+      },
+      "reignEndDate": "24 gennaio 41 d.C",
+      "successors": {
+        "Claudio": "https://it.wikipedia.org/wiki/Claudio"
+      },
+      "fullName": "Caligola",
+      "birthDate": "31 agosto 12 d.C",
+      "mother": {
+        "fullName": "Agrippina maggiore",
+        "url": "https://it.wikipedia.org/wiki/Agrippina_maggiore"
+      },
+      "reignBeginningDate": "18 marzo 37 d.C",
+      "children": {
+        "Giulia Drusilla": "https://it.wikipedia.org/wiki/Giulia_Drusilla"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Cuirassed_bust_of_Caligula%2C_found_in_Rome%2C_AD_37-41%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2813192017765%29.jpg/200px-Cuirassed_bust_of_Caligula%2C_found_in_Rome%2C_AD_37-41%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2813192017765%29.jpg",
+      "deathDate": "24 gennaio 41 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_giulio-claudia"
+    },
+    "https://it.wikipedia.org/wiki/Flavia_Giulia_Costanza": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Costanza",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Iscrizione_in_onore_di_Costanza_-_Musei_Capitolini.jpg/220px-Iscrizione_in_onore_di_Costanza_-_Musei_Capitolini.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Livia_Orestilla": {
+      "spouses": {
+        "Gaio Calpurnio Pisone": "https://it.wikipedia.org/wiki/Gaio_Calpurnio_Pisone_(console_41)",
+        "Caligola": "https://it.wikipedia.org/wiki/Caligola"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Livia Orestilla",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Livia_Orestilla.jpg/260px-Livia_Orestilla.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Gens_Livia"
+    },
+    "https://it.wikipedia.org/wiki/Azia_maggiore": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Azia maggiore",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Portland_Vase_BM_Gem4036_n5.jpg/220px-Portland_Vase_BM_Gem4036_n5.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Vespasia_Polla": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Vespasia Polla",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vespasia_Polla.jpg/220px-Vespasia_Polla.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Massimino_il_Trace": {
+      "spouses": {
+        "Cecilia Paolina": "https://it.wikipedia.org/wiki/Cecilia_Paolina"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Micca",
+        "url": null
+      },
+      "reignEndDate": "10 maggio 238 d.C",
+      "successors": {
+        "Balbino": "https://it.wikipedia.org/wiki/Balbino",
+        "Gordiano III": "https://it.wikipedia.org/wiki/Gordiano_III",
+        "Pupieno": "https://it.wikipedia.org/wiki/Pupieno"
+      },
+      "fullName": "Massimino il Trace",
+      "birthDate": "173 d.C",
+      "mother": {
+        "fullName": "Ababa",
+        "url": null
+      },
+      "reignBeginningDate": "20 marzo 235 d.C",
+      "children": {
+        "Gaio Giulio Vero Massimo": "https://it.wikipedia.org/wiki/Gaio_Giulio_Vero_Massimo"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Maximinus_Thrax_Musei_Capitolini_MC473.jpg/225px-Maximinus_Thrax_Musei_Capitolini_MC473.jpg",
+      "deathDate": "10 maggio 238 d.C",
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Flavio_Dalmazio_(censore)": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Dalmazio",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Tiberio_Claudio_Nerone_(pretore_42_a.C.)": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Tiberio Claudio Nerone",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tiberius_bust.jpg/220px-Tiberius_bust.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Elena_(figlia_di_Costantino)": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Elena",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Helena.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Lucio_Vero": {
+      "spouses": {
+        "Annia Aurelia Galeria Lucilla": "https://it.wikipedia.org/wiki/Annia_Aurelia_Galeria_Lucilla"
+      },
+      "adoptiveFather": {
+        "fullName": "Antonino Pio",
+        "url": "https://it.wikipedia.org/wiki/Antonino_Pio"
+      },
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Lucio Elio",
+        "url": "https://it.wikipedia.org/wiki/Lucio_Elio_Cesare"
+      },
+      "reignEndDate": "gennaio 169 d.C",
+      "successors": {
+        "Marco Aurelio": "https://it.wikipedia.org/wiki/Marco_Aurelio"
+      },
+      "fullName": "Lucio Vero",
+      "birthDate": "15 dicembre 130 d.C",
+      "mother": {
+        "fullName": "Avidia Plautia",
+        "url": null
+      },
+      "reignBeginningDate": "8 marzo 161 d.C",
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Busto_di_lucio_vero%2C_tipo_braccio_nuovo%2C_166_dc_ca.jpg/256px-Busto_di_lucio_vero%2C_tipo_braccio_nuovo%2C_166_dc_ca.jpg",
+      "deathDate": "gennaio 169 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_degli_Antonini"
+    },
+    "https://it.wikipedia.org/wiki/Domizia_Lucilla": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Domizia Lucilla",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/AnniusVerusPraetor_DomitiaLucillaMinor.png/300px-AnniusVerusPraetor_DomitiaLucillaMinor.png",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Basilina": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Basilina",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Macrino": {
+      "spouses": {
+        "Nonia Celsa": "https://it.wikipedia.org/wiki/Nonia_Celsa"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": "giugno 218 d.C",
+      "successors": {
+        "Eliogabalo": "https://it.wikipedia.org/wiki/Eliogabalo"
+      },
+      "fullName": "Macrino",
+      "birthDate": "164 d.C",
+      "mother": null,
+      "reignBeginningDate": "8 aprile 217 d.C",
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bust_of_Macrinus_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/200px-Bust_of_Macrinus_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+      "deathDate": "giugno 218 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/w/index.php?title=Macrini_(dinastia)&action=edit&redlink=1"
+    },
+    "https://it.wikipedia.org/wiki/Cornelio_Valeriano": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Gallieno",
+        "url": "https://it.wikipedia.org/wiki/Gallieno"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Cornelio Valeriano",
+      "birthDate": "250 d.C",
+      "mother": {
+        "fullName": "Cornelia Salonina",
+        "url": "https://it.wikipedia.org/wiki/Cornelia_Salonina"
+      },
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/ValerianusIIae.jpg",
+      "deathDate": "258 d.C",
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Nonia_Celsa": {
+      "spouses": {
+        "Macrino": "https://it.wikipedia.org/wiki/Macrino"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Nonia Celsa",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {
+        "Diadumeniano": "https://it.wikipedia.org/wiki/Diadumeniano"
+      },
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Traiano": {
+      "spouses": {
+        "Plotina": "https://it.wikipedia.org/wiki/Plotina"
+      },
+      "adoptiveFather": {
+        "fullName": "Marco Cocceio Nerva",
+        "url": "https://it.wikipedia.org/wiki/Nerva"
+      },
+      "role": "Emperor",
+      "adoptedChildren": {
+        "Publio Elio Traiano Adriano": "https://it.wikipedia.org/wiki/Adriano"
+      },
+      "father": {
+        "fullName": "Marco Ulpio Traiano",
+        "url": "https://it.wikipedia.org/wiki/Marco_Ulpio_Traiano_(padre)"
+      },
+      "reignEndDate": "8 agosto 117 d.C",
+      "successors": {
+        "Adriano": "https://it.wikipedia.org/wiki/Adriano"
+      },
+      "fullName": "Traiano",
+      "birthDate": "18 settembre 53 d.C",
+      "mother": {
+        "fullName": "Marcia",
+        "url": null
+      },
+      "reignBeginningDate": "27 gennaio 98 d.C",
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Buts_of_Trajan%2C_ca._108_AD%2C_of_the_so-called_%E2%80%9CDecennalia_type%E2%80%9D%2C_Venice_Museo_Archeologico%2C_Italy_%2820841123999%29.jpg/199px-Buts_of_Trajan%2C_ca._108_AD%2C_of_the_so-called_%E2%80%9CDecennalia_type%E2%80%9D%2C_Venice_Museo_Archeologico%2C_Italy_%2820841123999%29.jpg",
+      "deathDate": "8 agosto 117 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Imperatori_adottivi"
+    },
+    "https://it.wikipedia.org/wiki/Flavio_Severo": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": "307 d.C",
+      "successors": {
+        "Massenzio": "https://it.wikipedia.org/wiki/Massenzio",
+        "Licinio": "https://it.wikipedia.org/wiki/Licinio"
+      },
+      "fullName": "Flavio Severo",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": "1 maggio 305 d.C",
+      "children": {
+        "Severiano": "https://it.wikipedia.org/wiki/Severiano"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Follis-Flavius_Valerius_Severus-trier_RIC_650a.jpg/260px-Follis-Flavius_Valerius_Severus-trier_RIC_650a.jpg",
+      "deathDate": "primavera/estate 307 d.C",
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Flavio_Claudio_Giuliano": {
+      "spouses": {
+        "Elena": "https://it.wikipedia.org/wiki/Elena_(figlia_di_Costantino)"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Giulio Costanzo",
+        "url": "https://it.wikipedia.org/wiki/Giulio_Costanzo"
+      },
+      "reignEndDate": "26 giugno 363 d.C",
+      "successors": {
+        "Gioviano": "https://it.wikipedia.org/wiki/Gioviano"
+      },
+      "fullName": "Giuliano",
+      "birthDate": "6 novembre 331 d.C",
+      "mother": {
+        "fullName": "Basilina",
+        "url": "https://it.wikipedia.org/wiki/Basilina"
+      },
+      "reignBeginningDate": "febbraio 360 d.C",
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/JulianusII-antioch%28360-363%29-CNG.jpg/260px-JulianusII-antioch%28360-363%29-CNG.jpg",
+      "deathDate": "26 giugno 363 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_costantiniana"
+    },
+    "https://it.wikipedia.org/wiki/Marco_Aurelio": {
+      "spouses": {
+        "Faustina minore": "https://it.wikipedia.org/wiki/Faustina_minore"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Marco Annio Vero",
+        "url": "https://it.wikipedia.org/wiki/Marco_Annio_Vero_(pretore)"
+      },
+      "reignEndDate": "17 marzo 180 d.C",
+      "successors": {
+        "Commodo": "https://it.wikipedia.org/wiki/Commodo"
+      },
+      "fullName": "Marco Aurelio",
+      "birthDate": "26 aprile 121 d.C",
+      "mother": {
+        "fullName": "Domizia Lucilla",
+        "url": "https://it.wikipedia.org/wiki/Domizia_Lucilla"
+      },
+      "reignBeginningDate": "8 marzo 161 d.C",
+      "children": {
+        "Tito Aurelio Antonino": null,
+        "Tito Elio Aurelio": null,
+        "Vibia Aurelia Sabina": "https://it.wikipedia.org/wiki/Vibia_Aurelia_Sabina",
+        "Marco Annio Vero Cesare": "https://it.wikipedia.org/wiki/Marco_Annio_Vero_Cesare",
+        "Un altro figlio di cui non si conosce il nome nato dopo Tito Elio Antonino": null,
+        "Fadilla": "https://it.wikipedia.org/wiki/Fadilla",
+        "Tito Aurelio Fulvio Antonino": "https://it.wikipedia.org/wiki/Tito_Aurelio_Fulvio_Antonino",
+        "Domizia Faustina Aurelia": null,
+        "Commodo": "https://it.wikipedia.org/wiki/Commodo",
+        "Annia Aurelia Galeria Faustina": "https://it.wikipedia.org/wiki/Annia_Aurelia_Galeria_Faustina",
+        "Annia Cornificia Faustina minore": "https://it.wikipedia.org/wiki/Annia_Cornificia_Faustina_minore",
+        "Lucilla": "https://it.wikipedia.org/wiki/Annia_Aurelia_Galeria_Lucilla",
+        "Tito Elio Antonino": null,
+        "Adriano": null
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marcus_Aurelius_Ephesus_Museum.jpg/200px-Marcus_Aurelius_Ephesus_Museum.jpg",
+      "deathDate": "17 marzo 180 o d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_degli_Antonini"
+    },
+    "https://it.wikipedia.org/wiki/Faustina_maggiore": {
+      "spouses": {
+        "Antonino Pio": "https://it.wikipedia.org/wiki/Antonino_Pio"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Marco Annio Vero",
+        "url": "https://it.wikipedia.org/wiki/Marco_Annio_Vero_(console_97)"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Annia Galeria Faustina",
+      "birthDate": "105 d.C",
+      "mother": {
+        "fullName": "Rupilia Faustina",
+        "url": "https://it.wikipedia.org/wiki/Rupilia_Faustina"
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Annia Galeria Faustina": "https://it.wikipedia.org/wiki/Faustina_minore",
+        "Aurelia Fadilla": null,
+        "Marco Aurelio Fulvio Antonino": null,
+        "Marco Galerio Aurelio Antonino": null
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/0150_Altes_Museum_Empress_Faustina_the_Elder_anagoria.JPG/200px-0150_Altes_Museum_Empress_Faustina_the_Elder_anagoria.JPG",
+      "deathDate": "140 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Imperatori_adottivi"
+    },
+    "https://it.wikipedia.org/wiki/Marco_Vipsanio_Agrippa_Postumo": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Marco Vipsanio Agrippa Postumo",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/P1080702_Louvre_Agrippa_Postumus_MND1961_rwk.JPG/220px-P1080702_Louvre_Agrippa_Postumus_MND1961_rwk.JPG",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Bruzia_Crispina": {
+      "spouses": {
+        "Commodo": "https://it.wikipedia.org/wiki/Commodo"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Gaio Bruzzio Presente",
+        "url": "https://it.wikipedia.org/wiki/Gaio_Bruzzio_Presente"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Bruzia Crispina",
+      "birthDate": "160 d.C",
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {
+        "Claudia Crispina": null
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/L%27Image_et_le_Pouvoir_-_T%C3%AAte_de_Crispine_01.jpg/200px-L%27Image_et_le_Pouvoir_-_T%C3%AAte_de_Crispine_01.jpg",
+      "deathDate": "193 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Imperatori_adottivi"
+    },
+    "https://it.wikipedia.org/wiki/Nerva": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {
+        "Traiano": "https://it.wikipedia.org/wiki/Traiano"
+      },
+      "father": {
+        "fullName": "Marco Cocceio Nerva",
+        "url": null
+      },
+      "reignEndDate": "25 gennaio 98 d.C",
+      "successors": {
+        "Traiano": "https://it.wikipedia.org/wiki/Traiano"
+      },
+      "fullName": "Nerva",
+      "birthDate": "8 novembre 30 d.C",
+      "mother": {
+        "fullName": "Sergia Plautilla",
+        "url": null
+      },
+      "reignBeginningDate": "18 settembre 96 d.C",
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Head_of_Marcus_Cocceius_Nerva_in_Museo_Nazionale_Romano.jpg/260px-Head_of_Marcus_Cocceius_Nerva_in_Museo_Nazionale_Romano.jpg",
+      "deathDate": "25 gennaio 98 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Imperatori_adottivi"
+    },
+    "https://it.wikipedia.org/wiki/Annia_Aurelia_Galeria_Faustina": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Annia Aurelia Galeria Faustina",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Tiberio_Gemello": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Druso minore",
+        "url": "https://it.wikipedia.org/wiki/Druso_minore"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Tiberio Gemello",
+      "birthDate": "ottobre 19 d.C",
+      "mother": {
+        "fullName": "Claudia Livilla",
+        "url": "https://it.wikipedia.org/wiki/Claudia_Livilla"
+      },
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tiberius_Gemellus.jpg/260px-Tiberius_Gemellus.jpg",
+      "deathDate": "38 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_giulio-claudia"
+    },
+    "https://it.wikipedia.org/wiki/Valeria_Messalina": {
+      "spouses": {
+        "Claudio": "https://it.wikipedia.org/wiki/Claudio"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Marco Valerio Messalla Barbato",
+        "url": "https://it.wikipedia.org/wiki/Marco_Valerio_Messalla_Barbato"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Valeria Messalina",
+      "birthDate": "25 d.C",
+      "mother": {
+        "fullName": "Domizia Lepida",
+        "url": "https://it.wikipedia.org/wiki/Domizia_Lepida"
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Claudia Ottavia": "https://it.wikipedia.org/wiki/Claudia_Ottavia",
+        "Britannico": "https://it.wikipedia.org/wiki/Tiberio_Claudio_Cesare_Britannico"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Messalina_from_Rome_Louvre_Ma1224_n3.jpg/200px-Messalina_from_Rome_Louvre_Ma1224_n3.jpg",
+      "deathDate": "48 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Gens_Valeria"
+    },
+    "https://it.wikipedia.org/wiki/Gallieno": {
+      "spouses": {
+        "Cornelia Salonina": "https://it.wikipedia.org/wiki/Cornelia_Salonina"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Valeriano",
+        "url": "https://it.wikipedia.org/wiki/Valeriano"
+      },
+      "reignEndDate": "268 d.C",
+      "successors": {
+        "Claudio il Gotico": "https://it.wikipedia.org/wiki/Claudio_il_Gotico"
+      },
+      "fullName": "Gallieno",
+      "birthDate": "218 d.C",
+      "mother": {
+        "fullName": "Egnazia Mariniana",
+        "url": "https://it.wikipedia.org/wiki/Egnazia_Mariniana"
+      },
+      "reignBeginningDate": "253 d.C",
+      "children": {
+        "Cornelio Valeriano": "https://it.wikipedia.org/wiki/Cornelio_Valeriano",
+        "Cornelio Salonino": "https://it.wikipedia.org/wiki/Cornelio_Salonino",
+        "Egnazio Mariniano": "https://it.wikipedia.org/wiki/Egnazio_Mariniano"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ritratto_di_gallieno_dalla_casa_delle_vestali.jpg/244px-Ritratto_di_gallieno_dalla_casa_delle_vestali.jpg",
+      "deathDate": "settembre 268 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_valeriana"
+    },
+    "https://it.wikipedia.org/wiki/Caracalla": {
+      "spouses": {
+        "Fulvia Plautilla": "https://it.wikipedia.org/wiki/Fulvia_Plautilla"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Settimio Severo",
+        "url": "https://it.wikipedia.org/wiki/Settimio_Severo"
+      },
+      "reignEndDate": "8 aprile 217 d.C",
+      "successors": {
+        "Macrino": "https://it.wikipedia.org/wiki/Macrino"
+      },
+      "fullName": "Caracalla",
+      "birthDate": "4 aprile 188 d.C",
+      "mother": {
+        "fullName": "Giulia Domna",
+        "url": "https://it.wikipedia.org/wiki/Giulia_Domna"
+      },
+      "reignBeginningDate": "198 d.C",
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Caracalla_Musei_Capitolini_MC2310.jpg/200px-Caracalla_Musei_Capitolini_MC2310.jpg",
+      "deathDate": "8 aprile 217 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_dei_Severi"
+    },
+    "https://it.wikipedia.org/wiki/Crispo": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Crispo",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Solidus-Crispus-sirmium_RIC_-.jpg/310px-Solidus-Crispus-sirmium_RIC_-.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Commodo": {
+      "spouses": {
+        "Bruzia Crispina": "https://it.wikipedia.org/wiki/Bruzia_Crispina"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Marco Aurelio",
+        "url": "https://it.wikipedia.org/wiki/Marco_Aurelio"
+      },
+      "reignEndDate": "31 dicembre 192 d.C",
+      "successors": {
+        "Pertinace": "https://it.wikipedia.org/wiki/Pertinace"
+      },
+      "fullName": "Commodo",
+      "birthDate": "31 agosto 161 d.C",
+      "mother": {
+        "fullName": "Faustina minore",
+        "url": "https://it.wikipedia.org/wiki/Faustina_minore"
+      },
+      "reignBeginningDate": "177 d.C",
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Commodus_Musei_Capitolini_MC1120.jpg/200px-Commodus_Musei_Capitolini_MC1120.jpg",
+      "deathDate": "31 dicembre 192 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_degli_Antonini"
+    },
+    "https://it.wikipedia.org/wiki/Giulio_Costanzo": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Giulio Costanzo",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Adriano": {
+      "spouses": {
+        "Vibia Sabina": "https://it.wikipedia.org/wiki/Vibia_Sabina"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {
+        "Lucio Elio Cesare": "https://it.wikipedia.org/wiki/Lucio_Elio_Cesare",
+        "Antonino Pio": "https://it.wikipedia.org/wiki/Antonino_Pio"
+      },
+      "father": {
+        "fullName": "Publio Elio Adriano Afro",
+        "url": "https://it.wikipedia.org/wiki/Publio_Elio_Adriano_Afro"
+      },
+      "reignEndDate": "10 luglio 138 d.C",
+      "successors": {
+        "Antonino Pio": "https://it.wikipedia.org/wiki/Antonino_Pio"
+      },
+      "fullName": "Adriano",
+      "birthDate": "24 gennaio 76 d.C",
+      "mother": {
+        "fullName": "Domizia Paolina",
+        "url": "https://it.wikipedia.org/wiki/Domizia_Paolina"
+      },
+      "reignBeginningDate": "11 agosto 117 d.C",
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bust_Hadrian_Musei_Capitolini_MC817_cropped.jpg/260px-Bust_Hadrian_Musei_Capitolini_MC817_cropped.jpg",
+      "deathDate": "10 luglio 138 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_degli_Antonini"
+    },
+    "https://it.wikipedia.org/wiki/Costanzo_II": {
+      "spouses": {
+        "Eusebia": "https://it.wikipedia.org/wiki/Eusebia",
+        "Faustina": "https://it.wikipedia.org/wiki/Faustina_(augusta)"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Costantino I",
+        "url": "https://it.wikipedia.org/wiki/Costantino_I"
+      },
+      "reignEndDate": "3 novembre 361 d.C",
+      "successors": {
+        "Giuliano": "https://it.wikipedia.org/wiki/Flavio_Claudio_Giuliano"
+      },
+      "fullName": "Costanzo II",
+      "birthDate": "7 agosto 317 d.C",
+      "mother": {
+        "fullName": "Fausta",
+        "url": "https://it.wikipedia.org/wiki/Fausta"
+      },
+      "reignBeginningDate": "22 maggio d.C",
+      "children": {
+        "Flavia Massima Faustina Costanza": "https://it.wikipedia.org/wiki/Flavia_Massima_Faustina_Costanza"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bust_of_Constantius_II_%28Mary_Harrsch%29.jpg/225px-Bust_of_Constantius_II_%28Mary_Harrsch%29.jpg",
+      "deathDate": "3 novembre 361 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_costantiniana"
+    },
+    "https://it.wikipedia.org/wiki/Fadilla": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Fadilla",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Domizia_Longina": {
+      "spouses": {
+        "Domiziano": "https://it.wikipedia.org/wiki/Domiziano",
+        "Lucio Elio Lamia": null
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {
+        "Vespasiano e Domiziano": null
+      },
+      "father": {
+        "fullName": "Gneo Domizio Corbulone",
+        "url": "https://it.wikipedia.org/wiki/Gneo_Domizio_Corbulone"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Domizia Longina",
+      "birthDate": "53 d.C",
+      "mother": {
+        "fullName": "Cassia Longina",
+        "url": null
+      },
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rome_Domitia_Longina.jpg/242px-Rome_Domitia_Longina.jpg",
+      "deathDate": "128 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_flavia"
+    },
+    "https://it.wikipedia.org/wiki/Gaio_Ottavio": {
+      "spouses": {
+        "Ancaria": "https://it.wikipedia.org/wiki/Ancaria",
+        "Azia maggiore": "https://it.wikipedia.org/wiki/Azia_maggiore"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Gaio Ottavio",
+      "birthDate": "100 a.C.",
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {
+        "Ottavia maggiore": "https://it.wikipedia.org/wiki/Ottavia_maggiore",
+        "Ottavia minore": null,
+        "Ottaviano Augusto": null
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Head_Gaius_Octavius_Glyptothek_Munich.jpg/182px-Head_Gaius_Octavius_Glyptothek_Munich.jpg",
+      "deathDate": "59 a.C.",
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Costanzo_Cloro": {
+      "spouses": {
+        "Teodora": "https://it.wikipedia.org/wiki/Flavia_Massimiana_Teodora",
+        "Elena": "https://it.wikipedia.org/wiki/Flavia_Giulia_Elena"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Eutropio",
+        "url": null
+      },
+      "reignEndDate": "1 maggio 305 d.C",
+      "successors": {
+        "Flavio Severo": "https://it.wikipedia.org/wiki/Flavio_Severo",
+        "Costantino I": "https://it.wikipedia.org/wiki/Costantino_I"
+      },
+      "fullName": "Costanzo Cloro",
+      "birthDate": "31 marzo 250 d.C",
+      "mother": {
+        "fullName": "Claudia",
+        "url": null
+      },
+      "reignBeginningDate": "1 marzo d.C",
+      "children": {
+        "Annibaliano": "https://it.wikipedia.org/wiki/Annibaliano",
+        "Costanza": "https://it.wikipedia.org/wiki/Flavia_Giulia_Costanza",
+        "Eutropia": "https://it.wikipedia.org/wiki/Eutropia_(figlia_di_Costanzo_Cloro)",
+        "Anastasia": "https://it.wikipedia.org/wiki/Anastasia_(figlia_di_Costanzo_Cloro)",
+        "Dalmazio": "https://it.wikipedia.org/wiki/Flavio_Dalmazio_(censore)",
+        "Giulio Costanzo": "https://it.wikipedia.org/wiki/Giulio_Costanzo",
+        "Costantino I": "https://it.wikipedia.org/wiki/Costantino_I"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Constantius_Chlorus_Ny_Carlsberg_Glyptotek_IN836.jpg/200px-Constantius_Chlorus_Ny_Carlsberg_Glyptotek_IN836.jpg",
+      "deathDate": "25 luglio 306 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_costantiniana"
+    },
+    "https://it.wikipedia.org/wiki/Sallustia_Orbiana": {
+      "spouses": {
+        "Alessandro Severo": "https://it.wikipedia.org/wiki/Alessandro_Severo"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Lucio Seio Sallustio",
+        "url": "https://it.wikipedia.org/wiki/Lucio_Seio_Sallustio"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Sallustia Orbiana",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sallustia_Orbiana_Louvre_Ma1054.jpg/225px-Sallustia_Orbiana_Louvre_Ma1054.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Agrippina_maggiore": {
+      "spouses": {
+        "Germanico Giulio Cesare": "https://it.wikipedia.org/wiki/Germanico_Giulio_Cesare"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Marco Vipsanio Agrippa",
+        "url": "https://it.wikipedia.org/wiki/Marco_Vipsanio_Agrippa"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Agrippina maggiore",
+      "birthDate": "23 ottobre 14 a.C.",
+      "mother": {
+        "fullName": "Giulia maggiore",
+        "url": "https://it.wikipedia.org/wiki/Giulia_maggiore_(figlia_di_Augusto)"
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Gaio Cesare \"Caligola\"": "https://it.wikipedia.org/wiki/Caligola",
+        "Agrippina minore": "https://it.wikipedia.org/wiki/Agrippina_minore",
+        "Giulia Livilla": "https://it.wikipedia.org/wiki/Giulia_Livilla_(figlia_di_Germanico)",
+        "Gaio Cesare": null,
+        "Nerone Cesare": "https://it.wikipedia.org/wiki/Nerone_Cesare",
+        "Druso Cesare": "https://it.wikipedia.org/wiki/Druso_Cesare",
+        "Tiberio Cesare": null,
+        "Giulia Drusilla": "https://it.wikipedia.org/wiki/Drusilla"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Agrippina_Major_IAM_inv2164T.jpg/200px-Agrippina_Major_IAM_inv2164T.jpg",
+      "deathDate": "18 ottobre 33 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_giulio-claudia"
+    },
+    "https://it.wikipedia.org/wiki/Lucio_Cesare": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Lucio Cesare",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/8090_-_Roma_-_Ara_Pacis_-_Lucio_Cesare_-_Foto_Giovanni_Dall%27Orto_-_28-Mar-2008.jpg/220px-8090_-_Roma_-_Ara_Pacis_-_Lucio_Cesare_-_Foto_Giovanni_Dall%27Orto_-_28-Mar-2008.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Sesto_Vario_Marcello": {
+      "spouses": {
+        "Giulia Soemia": "https://it.wikipedia.org/wiki/Giulia_Soemia"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Sesto Vario Marcello",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {
+        "Eliogabalo": "https://it.wikipedia.org/wiki/Eliogabalo"
+      },
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_dei_Severi"
+    },
+    "https://it.wikipedia.org/wiki/Giulia_Drusilla": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Giulia Drusilla",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Tito_(imperatore_romano)": {
+      "spouses": {
+        "Marcia Furnilla": "https://it.wikipedia.org/wiki/Marcia_Furnilla",
+        "Arrecina Tertulla": "https://it.wikipedia.org/wiki/Arrecina_Tertulla"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Vespasiano",
+        "url": "https://it.wikipedia.org/wiki/Vespasiano"
+      },
+      "reignEndDate": "13 settembre 81 d.C",
+      "successors": {
+        "Domiziano": "https://it.wikipedia.org/wiki/Domiziano"
+      },
+      "fullName": "Tito",
+      "birthDate": "30 dicembre 39 d.C",
+      "mother": {
+        "fullName": "Flavia Domitilla maggiore",
+        "url": "https://it.wikipedia.org/wiki/Flavia_Domitilla_maggiore"
+      },
+      "reignBeginningDate": "24 giugno 79 d.C",
+      "children": {
+        "Flavia": null,
+        "Giulia Flavia": "https://it.wikipedia.org/wiki/Giulia_(figlia_di_Tito)"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Titus_%28Capitoline_Museums%29.jpg/239px-Titus_%28Capitoline_Museums%29.jpg",
+      "deathDate": "13 settembre 81 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_flavia"
+    },
+    "https://it.wikipedia.org/wiki/Giulia_Mamea": {
+      "spouses": {
+        "Marco Giulio Gessio Marciano": "https://it.wikipedia.org/wiki/Marco_Giulio_Gessio_Marciano"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Gaio Giulio Avito Alessiano",
+        "url": "https://it.wikipedia.org/wiki/Gaio_Giulio_Avito_Alessiano"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Giulia Mamea",
+      "birthDate": "180 d.C",
+      "mother": {
+        "fullName": "Giulia Mesa",
+        "url": "https://it.wikipedia.org/wiki/Giulia_Mesa"
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Alessandro Severo": "https://it.wikipedia.org/wiki/Alessandro_Severo"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bust_of_Julia_Mamea_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/200px-Bust_of_Julia_Mamea_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+      "deathDate": "18 o 19 marzo 235 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_dei_Severi"
+    },
+    "https://it.wikipedia.org/wiki/Antonia_Caenis": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Caenis",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CIL_VI_12037.jpg/220px-CIL_VI_12037.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Costantino_II": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Costantino I",
+        "url": "https://it.wikipedia.org/wiki/Costantino_I"
+      },
+      "reignEndDate": "340 d.C",
+      "successors": {
+        "Costanzo II": "https://it.wikipedia.org/wiki/Costanzo_II",
+        "Costante I": "https://it.wikipedia.org/wiki/Costante_I"
+      },
+      "fullName": "Costantino II",
+      "birthDate": "febbraio 317 d.C",
+      "mother": null,
+      "reignBeginningDate": "maggio 337 d.C",
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Solidus_Constantine_II-heraclea_RIC_vII_101.jpg/260px-Solidus_Constantine_II-heraclea_RIC_vII_101.jpg",
+      "deathDate": "aprile 340 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_costantiniana"
+    },
+    "https://it.wikipedia.org/wiki/Nerone": {
+      "spouses": {
+        "Claudia Ottavia": "https://it.wikipedia.org/wiki/Claudia_Ottavia",
+        "Statilia Messalina": "https://it.wikipedia.org/wiki/Statilia_Messalina",
+        "Poppea": "https://it.wikipedia.org/wiki/Poppea"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Gneo Domizio Enobarbo",
+        "url": "https://it.wikipedia.org/wiki/Gneo_Domizio_Enobarbo_(console_32)"
+      },
+      "reignEndDate": "9 giugno 68 d.C",
+      "successors": {
+        "Galba": "https://it.wikipedia.org/wiki/Galba"
+      },
+      "fullName": "Nerone",
+      "birthDate": "15 dicembre 37 d.C",
+      "mother": {
+        "fullName": "Agrippina minore",
+        "url": "https://it.wikipedia.org/wiki/Agrippina_minore"
+      },
+      "reignBeginningDate": "13 ottobre 54 d.C",
+      "children": {
+        "Claudia Augusta": "https://it.wikipedia.org/wiki/Claudia_Augusta"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Nero_1.JPG/225px-Nero_1.JPG",
+      "deathDate": "9 giugno 68 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_giulio-claudia"
+    },
+    "https://it.wikipedia.org/wiki/Giulia_(figlia_di_Tito)": {
+      "spouses": {
+        "Tito Flavio Sabino": "https://it.wikipedia.org/wiki/Tito_Flavio_Sabino_(console_82)"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Tito",
+        "url": "https://it.wikipedia.org/wiki/Tito_(imperatore_romano)"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Giulia Flavia",
+      "birthDate": "13 settembre 64 d.C",
+      "mother": {
+        "fullName": "Arrecina Tertulla",
+        "url": "https://it.wikipedia.org/wiki/Arrecina_Tertulla"
+      },
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Iulia_Titi.JPG/199px-Iulia_Titi.JPG",
+      "deathDate": "91 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_Flavia"
+    },
+    "https://it.wikipedia.org/wiki/Eutropia_(figlia_di_Costanzo_Cloro)": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Eutropia",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Plotina": {
+      "spouses": {
+        "Traiano": "https://it.wikipedia.org/wiki/Traiano"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {
+        "Adriano": "https://it.wikipedia.org/wiki/Adriano"
+      },
+      "father": {
+        "fullName": "Lucio Pompeio ?",
+        "url": null
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Plotina",
+      "birthDate": "65/70 d.C",
+      "mother": {
+        "fullName": "Plotia ?",
+        "url": null
+      },
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Head_Roman_woman_Glyptothek_Munich_405.jpg/208px-Head_Roman_woman_Glyptothek_Munich_405.jpg",
+      "deathDate": "121 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Imperatori_adottivi"
+    },
+    "https://it.wikipedia.org/wiki/Annia_Cornificia_Faustina_minore": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Annia Cornificia Faustina minore",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/OstiaMuseoCornificiaMinore2.jpg/220px-OstiaMuseoCornificiaMinore2.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Statilia_Messalina": {
+      "spouses": {
+        "Marco Giulio Vestino Attico": null,
+        "Nerone": "https://it.wikipedia.org/wiki/Nerone"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Tito Statilio Tauro Corvino",
+        "url": "https://it.wikipedia.org/wiki/Tito_Statilio_Tauro_Corvino"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Statilia Messalina",
+      "birthDate": "35 d.C",
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Marble_bust_probably_of_Empress_Messalina_55-65_AD_%28cropped%29.jpg/260px-Marble_bust_probably_of_Empress_Messalina_55-65_AD_%28cropped%29.jpg",
+      "deathDate": "69 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/w/index.php?title=Gens_Statilia&action=edit&redlink=1"
+    },
+    "https://it.wikipedia.org/wiki/Giulia_Cornelia_Paula": {
+      "spouses": {
+        "Eliogabalo": "https://it.wikipedia.org/wiki/Eliogabalo"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Giulio Cornelio Paulo",
+        "url": null
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Giulia Cornelia Paula",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Julia_Cornelia_Paula_Musei_Capitolini_MC380.jpg/224px-Julia_Cornelia_Paula_Musei_Capitolini_MC380.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Gens_Cornelia"
+    },
+    "https://it.wikipedia.org/wiki/Lollia_Paolina": {
+      "spouses": {
+        "Publio Memmio Regolo": null,
+        "Caligola": "https://it.wikipedia.org/wiki/Caligola"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Marco Lollio",
+        "url": "https://it.wikipedia.org/wiki/Marco_Lollio_(console_13)"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Lollia Paolina",
+      "birthDate": null,
+      "mother": {
+        "fullName": "Volusia Saturnina",
+        "url": null
+      },
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Lollia_Paulina.jpg/260px-Lollia_Paulina.jpg",
+      "deathDate": "49 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Gens_Lollia"
+    },
+    "https://it.wikipedia.org/wiki/Clodia_Pulcra": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Clodia Pulcra",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Clodia_Pulchra.jpg/220px-Clodia_Pulchra.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Scribonia": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Scribonia",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Scribonia.jpg/220px-Scribonia.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Valeriano": {
+      "spouses": {
+        "Egnazia Mariniana": "https://it.wikipedia.org/wiki/Egnazia_Mariniana"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": "260 d.C",
+      "successors": {
+        "Gallieno": "https://it.wikipedia.org/wiki/Gallieno"
+      },
+      "fullName": "Valeriano",
+      "birthDate": "200 d.C",
+      "mother": null,
+      "reignBeginningDate": "settembre 253 d.C",
+      "children": {
+        "Valeriano il giovane": "https://it.wikipedia.org/wiki/Publio_Licinio_Valeriano_(console_265)",
+        "Gallieno": "https://it.wikipedia.org/wiki/Gallieno"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Valerianus_Ny_Carlsberg_Glyptotek_IN3387.jpg/240px-Valerianus_Ny_Carlsberg_Glyptotek_IN3387.jpg",
+      "deathDate": "260 d.C",
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Costantina": {
+      "spouses": {
+        "Annibaliano": "https://it.wikipedia.org/wiki/Annibaliano",
+        "Costanzo Gallo": "https://it.wikipedia.org/wiki/Costanzo_Gallo"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Costantino il Grande",
+        "url": "https://it.wikipedia.org/wiki/Costantino_il_Grande"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Costantina",
+      "birthDate": "318 d.C",
+      "mother": {
+        "fullName": "Fausta",
+        "url": "https://it.wikipedia.org/wiki/Fausta"
+      },
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Excideuil_%C3%A9glise_vitrail_choeur_%287%29.JPG/180px-Excideuil_%C3%A9glise_vitrail_choeur_%287%29.JPG",
+      "deathDate": "354 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_costantiniana"
+    },
+    "https://it.wikipedia.org/wiki/Vibia_Sabina": {
+      "spouses": {
+        "Adriano": "https://it.wikipedia.org/wiki/Adriano"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Lucio Vibio Sabino",
+        "url": null
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Vibia Sabina",
+      "birthDate": "86 d.C",
+      "mother": {
+        "fullName": "Salonina Matidia",
+        "url": "https://it.wikipedia.org/wiki/Salonina_Matidia"
+      },
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Vibia_Sabina_%28Villa_Adriana%29_01.jpg/225px-Vibia_Sabina_%28Villa_Adriana%29_01.jpg",
+      "deathDate": "136 o 137 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Imperatori_adottivi"
+    },
+    "https://it.wikipedia.org/wiki/Vipsania_Agrippina": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Vipsania Agrippina",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Vipsania_Agrippina_Grosseto.jpg/220px-Vipsania_Agrippina_Grosseto.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Tito_Flavio_Sabino_(padre_di_Vespasiano)": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Tito Flavio Sabino",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Titus_Flavius_Sabinus-Vespa.jpg/220px-Titus_Flavius_Sabinus-Vespa.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Giulia_maggiore_(figlia_di_Augusto)": {
+      "spouses": {
+        "Marco Vipsanio Agrippa": "https://it.wikipedia.org/wiki/Marco_Vipsanio_Agrippa",
+        "Marco Claudio Marcello": "https://it.wikipedia.org/wiki/Marco_Claudio_Marcello_(nipote_di_Augusto)",
+        "Tiberio": "https://it.wikipedia.org/wiki/Tiberio"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Augusto",
+        "url": "https://it.wikipedia.org/wiki/Augusto"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Giulia maggiore",
+      "birthDate": "ottobre 39 a.C.",
+      "mother": {
+        "fullName": "Scribonia",
+        "url": "https://it.wikipedia.org/wiki/Scribonia"
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Giulia minore": "https://it.wikipedia.org/wiki/Giulia_minore_(nipote_di_Augusto)",
+        "Gaio Cesare": "https://it.wikipedia.org/wiki/Gaio_Cesare",
+        "Agrippa Postumo": "https://it.wikipedia.org/wiki/Marco_Vipsanio_Agrippa_Postumo",
+        "Lucio Cesare": "https://it.wikipedia.org/wiki/Lucio_Cesare",
+        "Agrippina maggiore": "https://it.wikipedia.org/wiki/Agrippina_maggiore"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/%28Toulouse%29_Portrait_de_Julie_Mus%C3%A9e_Saint-Raymond_Ra_338.jpg/200px-%28Toulouse%29_Portrait_de_Julie_Mus%C3%A9e_Saint-Raymond_Ra_338.jpg",
+      "deathDate": "14 d.C.",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_giulio-claudia"
+    },
+    "https://it.wikipedia.org/wiki/Annia_Aurelia_Galeria_Lucilla": {
+      "spouses": {
+        "Lucio Vero": "https://it.wikipedia.org/wiki/Lucio_Vero",
+        "Claudio Pompeiano": "https://it.wikipedia.org/wiki/Tiberio_Claudio_Pompeiano"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Marco Aurelio",
+        "url": "https://it.wikipedia.org/wiki/Marco_Aurelio"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Lucilla",
+      "birthDate": "7 marzo 148 150 d.C",
+      "mother": {
+        "fullName": "Faustina minore",
+        "url": "https://it.wikipedia.org/wiki/Faustina_minore"
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Lucio Vero": null,
+        "Pompeiano": "https://it.wikipedia.org/wiki/Lucio_Aurelio_Commodo_Pompeiano",
+        "Aurelia Lucilla": null,
+        "Lucilla Plauzia": null
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lucilla%2C_da_palazzo_sciarra%2C_161-169_dc..JPG/126px-Lucilla%2C_da_palazzo_sciarra%2C_161-169_dc..JPG",
+      "deathDate": "182 d.C",
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Augusto": {
+      "spouses": {
+        "Scribonia": "https://it.wikipedia.org/wiki/Scribonia",
+        "Livia Drusilla": "https://it.wikipedia.org/wiki/Livia_Drusilla",
+        "Clodia Pulcra": "https://it.wikipedia.org/wiki/Clodia_Pulcra"
+      },
+      "adoptiveFather": {
+        "fullName": "Gaio Giulio Cesare",
+        "url": "https://it.wikipedia.org/wiki/Gaio_Giulio_Cesare"
+      },
+      "role": "Emperor",
+      "adoptedChildren": {
+        "Gaio Cesare": "https://it.wikipedia.org/wiki/Gaio_Cesare",
+        "Marco Vipsanio Agrippa Postumo": "https://it.wikipedia.org/wiki/Marco_Vipsanio_Agrippa_Postumo",
+        "Tiberio": "https://it.wikipedia.org/wiki/Tiberio",
+        "Lucio Cesare": "https://it.wikipedia.org/wiki/Lucio_Cesare"
+      },
+      "father": {
+        "fullName": "Gaio Ottavio",
+        "url": "https://it.wikipedia.org/wiki/Gaio_Ottavio"
+      },
+      "reignEndDate": "19 agosto 14 d.C",
+      "successors": {
+        "Tiberio": "https://it.wikipedia.org/wiki/Tiberio"
+      },
+      "fullName": "Augusto",
+      "birthDate": "23 settembre 63 a.C.",
+      "mother": {
+        "fullName": "Azia maggiore",
+        "url": "https://it.wikipedia.org/wiki/Azia_maggiore"
+      },
+      "reignBeginningDate": "16 gennaio 27 a.C.",
+      "children": {
+        "Giulia maggiore": "https://it.wikipedia.org/wiki/Giulia_maggiore_(figlia_di_Augusto)"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Statue-Augustus.jpg/200px-Statue-Augustus.jpg",
+      "deathDate": "19 agosto 14 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_giulio-claudia"
+    },
+    "https://it.wikipedia.org/wiki/Elia_Petina": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Elia Petina",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Aelia_Paetina.jpg/220px-Aelia_Paetina.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Flavia_Domitilla_maggiore": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Flavia Domitilla",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Costante_I": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Costantino I",
+        "url": "https://it.wikipedia.org/wiki/Costantino_I"
+      },
+      "reignEndDate": "18 gennaio 350 d.C",
+      "successors": {
+        "Costanzo II": "https://it.wikipedia.org/wiki/Costanzo_II",
+        "Magnenzio": "https://it.wikipedia.org/wiki/Magnenzio"
+      },
+      "fullName": "Costante I",
+      "birthDate": "320 d.C",
+      "mother": {
+        "fullName": "Fausta",
+        "url": "https://it.wikipedia.org/wiki/Fausta"
+      },
+      "reignBeginningDate": "maggio 337 d.C",
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Emperor_Constans_Louvre_Ma1021.jpg/225px-Emperor_Constans_Louvre_Ma1021.jpg",
+      "deathDate": "18 gennaio 350 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_costantiniana"
+    },
+    "https://it.wikipedia.org/wiki/Giulia_Domna": {
+      "spouses": {
+        "Settimio Severo": "https://it.wikipedia.org/wiki/Settimio_Severo"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Gaio Giulio Bassiano",
+        "url": "https://it.wikipedia.org/wiki/Gaio_Giulio_Bassiano"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Giulia Domna",
+      "birthDate": "170 d.C",
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {
+        "Geta": "https://it.wikipedia.org/wiki/Geta",
+        "Caracalla": "https://it.wikipedia.org/wiki/Caracalla"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Julia_Domna_MBA_Lyon_X482-115.jpg/240px-Julia_Domna_MBA_Lyon_X482-115.jpg",
+      "deathDate": "217 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_dei_Severi"
+    },
+    "https://it.wikipedia.org/wiki/Domizia_Paolina": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Domizia Paolina",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Domitia_Paulina_Major.jpg/220px-Domitia_Paulina_Major.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Giunia_Claudia": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Giunia Claudia",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Junia_Claudilla.jpg/220px-Junia_Claudilla.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Milonia_Cesonia": {
+      "spouses": {
+        "Caligola": "https://it.wikipedia.org/wiki/Caligola",
+        "Primo marito sconosciuto": null
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Cesonio",
+        "url": null
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Milonia Cesonia",
+      "birthDate": null,
+      "mother": {
+        "fullName": "Vistilia",
+        "url": null
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Da Caligola: Giulia Drusilla": null,
+        "Dal primo marito: 3 femmine": null
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Milonia_Caesonia.jpg/260px-Milonia_Caesonia.jpg",
+      "deathDate": "24 gennaio 41 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/w/index.php?title=Gens_Caesonia&action=edit&redlink=1"
+    },
+    "https://it.wikipedia.org/wiki/Flavia_Domitilla_minore": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Flavia Domitilla minore",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Denarius-Domitilla-RIC_0137.jpg/220px-Denarius-Domitilla-RIC_0137.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Cornelio_Salonino": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Gallieno",
+        "url": "https://it.wikipedia.org/wiki/Gallieno"
+      },
+      "reignEndDate": "260 d.C",
+      "successors": {
+        "Gallieno": "https://it.wikipedia.org/wiki/Gallieno"
+      },
+      "fullName": "Cornelio Salonino",
+      "birthDate": "243 d.C",
+      "mother": {
+        "fullName": "Cornelia Salonina",
+        "url": "https://it.wikipedia.org/wiki/Cornelia_Salonina"
+      },
+      "reignBeginningDate": "260 d.C",
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Aureus_Saloninus_Caesar_%28obverse%29.jpg/260px-Aureus_Saloninus_Caesar_%28obverse%29.jpg",
+      "deathDate": "260 d.C",
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Eusebia": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Eusebia",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Fausta": {
+      "spouses": {
+        "Costantino I": "https://it.wikipedia.org/wiki/Costantino_I"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Massimiano",
+        "url": "https://it.wikipedia.org/wiki/Massimiano"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Fausta",
+      "birthDate": "289/290 d.C",
+      "mother": {
+        "fullName": "Eutropia",
+        "url": "https://it.wikipedia.org/wiki/Eutropia_(imperatrice)"
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Costantino II": "https://it.wikipedia.org/wiki/Costantino_II",
+        "Costanzo II": "https://it.wikipedia.org/wiki/Costanzo_II",
+        "Costantina": "https://it.wikipedia.org/wiki/Costantina",
+        "Costante I": "https://it.wikipedia.org/wiki/Costante_I",
+        "Elena": "https://it.wikipedia.org/wiki/Elena_(figlia_di_Costantino)"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/P1070865_Louvre_t%C3%AAte_de_Fausta_Ma4881_rwk.JPG/230px-P1070865_Louvre_t%C3%AAte_de_Fausta_Ma4881_rwk.JPG",
+      "deathDate": "326 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_costantiniana"
+    },
+    "https://it.wikipedia.org/wiki/Magnenzio": {
+      "spouses": {
+        "Giustina": "https://it.wikipedia.org/wiki/Giustina_(imperatrice)"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": "10 agosto 353 d.C",
+      "successors": {
+        "Costanzo II": "https://it.wikipedia.org/wiki/Costanzo_II"
+      },
+      "fullName": "Magnenzio",
+      "birthDate": "303 d.C",
+      "mother": null,
+      "reignBeginningDate": "18 gennaio 350 d.C",
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Double_Centenionalis_Magnentius-XR-s4017.jpg/260px-Double_Centenionalis_Magnentius-XR-s4017.jpg",
+      "deathDate": "10 agosto 353 d.C",
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Aquilia_Severa": {
+      "spouses": {
+        "Eliogabalo": "https://it.wikipedia.org/wiki/Eliogabalo"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Aquilia Severa",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sestertius-Aquilia_Severa-RIC_0390.jpg/260px-Sestertius-Aquilia_Severa-RIC_0390.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_dei_Severi"
+    },
+    "https://it.wikipedia.org/wiki/Germanico_Giulio_Cesare": {
+      "spouses": {
+        "Agrippina maggiore": "https://it.wikipedia.org/wiki/Agrippina_maggiore"
+      },
+      "adoptiveFather": {
+        "fullName": "Tiberio",
+        "url": "https://it.wikipedia.org/wiki/Tiberio"
+      },
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Druso maggiore",
+        "url": "https://it.wikipedia.org/wiki/Druso_maggiore"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Germanico Giulio Cesare",
+      "birthDate": "24 maggio 15 a.C.",
+      "mother": {
+        "fullName": "Antonia minore",
+        "url": "https://it.wikipedia.org/wiki/Antonia_minore"
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Gaio Cesare \"Caligola\"": "https://it.wikipedia.org/wiki/Caligola",
+        "Agrippina minore": "https://it.wikipedia.org/wiki/Agrippina_minore",
+        "Giulia Livilla": "https://it.wikipedia.org/wiki/Giulia_Livilla_(figlia_di_Germanico)",
+        "Gaio Cesare": null,
+        "Nerone Cesare": "https://it.wikipedia.org/wiki/Nerone_Cesare",
+        "Druso Cesare": "https://it.wikipedia.org/wiki/Druso_Cesare",
+        "Tiberio Cesare": null,
+        "Giulia Drusilla": "https://it.wikipedia.org/wiki/Drusilla"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bust_Germanicus_Massimo.jpg/197px-Bust_Germanicus_Massimo.jpg",
+      "deathDate": "10 ottobre 19 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_giulio-claudia"
+    },
+    "https://it.wikipedia.org/wiki/Claudio_il_Gotico": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": "luglio/agosto 270 d.C",
+      "successors": {
+        "Quintillo": "https://it.wikipedia.org/wiki/Quintillo"
+      },
+      "fullName": "Claudio il Gotico",
+      "birthDate": "10 maggio 213 o 214 d.C",
+      "mother": null,
+      "reignBeginningDate": "settembre/ottobre 268 d.C",
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ritratto_virile_c.d._claudio_il_gotico%2C_270-285_dc_ca.jpg/135px-Ritratto_virile_c.d._claudio_il_gotico%2C_270-285_dc_ca.jpg",
+      "deathDate": "luglio/agosto 270 d.C",
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Claudio": {
+      "spouses": {
+        "Agrippina minore": "https://it.wikipedia.org/wiki/Agrippina_minore",
+        "Plauzia Urgulanilla": "https://it.wikipedia.org/wiki/Plauzia_Urgulanilla",
+        "Elia Petina": "https://it.wikipedia.org/wiki/Elia_Petina",
+        "Valeria Messalina": "https://it.wikipedia.org/wiki/Valeria_Messalina"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {
+        "Nerone": "https://it.wikipedia.org/wiki/Nerone"
+      },
+      "father": {
+        "fullName": "Druso maggiore",
+        "url": "https://it.wikipedia.org/wiki/Druso_maggiore"
+      },
+      "reignEndDate": "13 ottobre 54 d.C",
+      "successors": {
+        "Nerone": "https://it.wikipedia.org/wiki/Nerone"
+      },
+      "fullName": "Claudio",
+      "birthDate": "agosto 10 a.C.",
+      "mother": {
+        "fullName": "Antonia minore",
+        "url": "https://it.wikipedia.org/wiki/Antonia_minore"
+      },
+      "reignBeginningDate": "24 gennaio 41 d.C",
+      "children": {
+        "Claudia Antonia": "https://it.wikipedia.org/wiki/Claudia_Antonia",
+        "Claudia Ottavia": "https://it.wikipedia.org/wiki/Claudia_Ottavia",
+        "Britannico": "https://it.wikipedia.org/wiki/Tiberio_Claudio_Cesare_Britannico",
+        "Claudia": null,
+        "Claudio Druso": null
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Claudius_MAN_Napoli_Inv6060.jpg/200px-Claudius_MAN_Napoli_Inv6060.jpg",
+      "deathDate": "13 ottobre 54 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_giulio-claudia"
+    },
+    "https://it.wikipedia.org/wiki/Faustina_(augusta)": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Faustina",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Marco_Annio_Vero_Cesare": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Marco Annio Vero Cesare",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Annius_Verus_01.JPG/220px-Annius_Verus_01.JPG",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Marco_Giulio_Gessio_Marciano": {
+      "spouses": {
+        "Giulia Mamea": "https://it.wikipedia.org/wiki/Giulia_Mamea"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Marco Giulio Gessio Marciano",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {
+        "Alessandro Severo": "https://it.wikipedia.org/wiki/Alessandro_Severo"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Denarius-Julia_Mamea-RIC_0335.jpg/220px-Denarius-Julia_Mamea-RIC_0335.jpg",
+      "deathDate": "217 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_dei_Severi"
+    },
+    "https://it.wikipedia.org/wiki/Fulvia_Plautilla": {
+      "spouses": {
+        "Caracalla": "https://it.wikipedia.org/wiki/Caracalla"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Gaio Fulvio Plauziano",
+        "url": "https://it.wikipedia.org/wiki/Gaio_Fulvio_Plauziano"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Fulvia Plautilla",
+      "birthDate": "182 d.C",
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PlautillaProvIgnota-MNRPalMassimo1.JPG/225px-PlautillaProvIgnota-MNRPalMassimo1.JPG",
+      "deathDate": "212 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_dei_Severi"
+    },
+    "https://it.wikipedia.org/wiki/Druso_minore": {
+      "spouses": {
+        "Claudia Livilla": "https://it.wikipedia.org/wiki/Claudia_Livilla"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Tiberio",
+        "url": "https://it.wikipedia.org/wiki/Tiberio"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Druso minore",
+      "birthDate": "7 ottobre 14 a.C.",
+      "mother": {
+        "fullName": "Vipsania Agrippina",
+        "url": "https://it.wikipedia.org/wiki/Vipsania_Agrippina"
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Giulia Livia": "https://it.wikipedia.org/wiki/Giulia_Livia",
+        "Tiberio Gemello": "https://it.wikipedia.org/wiki/Tiberio_Gemello",
+        "Germanico Gemello": "https://it.wikipedia.org/wiki/Germanico_Gemello"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Drusus_minor_%28Museo_del_Prado%29_01.jpg/240px-Drusus_minor_%28Museo_del_Prado%29_01.jpg",
+      "deathDate": "14 settembre 23 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_giulio-claudia"
+    },
+    "https://it.wikipedia.org/wiki/Giulia_Soemia": {
+      "spouses": {
+        "Sesto Vario Marcello": "https://it.wikipedia.org/wiki/Sesto_Vario_Marcello"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Gaio Giulio Avito Alessiano",
+        "url": "https://it.wikipedia.org/wiki/Gaio_Giulio_Avito_Alessiano"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Giulia Soemia",
+      "birthDate": "180 d.C",
+      "mother": {
+        "fullName": "Giulia Mesa",
+        "url": "https://it.wikipedia.org/wiki/Giulia_Mesa"
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Eliogabalo": "https://it.wikipedia.org/wiki/Eliogabalo"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Denarius-Julia_Soaemias-RIC_0237.jpg/260px-Denarius-Julia_Soaemias-RIC_0237.jpg",
+      "deathDate": "11 marzo 222 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_dei_Severi"
+    },
+    "https://it.wikipedia.org/wiki/Marcia_Furnilla": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Marcia Furnilla",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Marcia_Furnilla.jpg/220px-Marcia_Furnilla.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Cornelia_Salonina": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Cornelia Salonina",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%9A%D0%BE%D1%80%D0%BD%D0%B5%D0%BB%D0%B8%D0%B8_%D0%A1%D0%B0%D0%BB%D0%BE%D0%BD%D0%B8%D0%BD%D1%8B.jpg/220px-%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%9A%D0%BE%D1%80%D0%BD%D0%B5%D0%BB%D0%B8%D0%B8_%D0%A1%D0%B0%D0%BB%D0%BE%D0%BD%D0%B8%D0%BD%D1%8B.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Anastasia_(figlia_di_Costanzo_Cloro)": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Anastasia",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Domiziano": {
+      "spouses": {
+        "Domizia Longina": "https://it.wikipedia.org/wiki/Domizia_Longina"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {
+        "Domiziano": null,
+        "Vespasiano": null
+      },
+      "father": {
+        "fullName": "Vespasiano",
+        "url": "https://it.wikipedia.org/wiki/Vespasiano"
+      },
+      "reignEndDate": "18 settembre 96 d.C",
+      "successors": {
+        "Nerva": "https://it.wikipedia.org/wiki/Nerva"
+      },
+      "fullName": "Domiziano",
+      "birthDate": "24 ottobre 51 d.C",
+      "mother": {
+        "fullName": "Flavia Domitilla maggiore",
+        "url": "https://it.wikipedia.org/wiki/Flavia_Domitilla_maggiore"
+      },
+      "reignBeginningDate": "14 settembre 81 d.C",
+      "children": {
+        "Due": null
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Domiziano_da_collezione_albani%2C_fine_del_I_sec._dc._02.JPG/242px-Domiziano_da_collezione_albani%2C_fine_del_I_sec._dc._02.JPG",
+      "deathDate": "18 settembre 96 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_flavia"
+    },
+    "https://it.wikipedia.org/wiki/Vibia_Aurelia_Sabina": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Vibia Aurelia Sabina",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Busto_de_Vibia_Sabina_%28M._Prado%29_01.jpg/220px-Busto_de_Vibia_Sabina_%28M._Prado%29_01.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Tiberio_Claudio_Cesare_Britannico": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Claudio",
+        "url": "https://it.wikipedia.org/wiki/Claudio"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Britannico",
+      "birthDate": "12 febbraio 41 d.C",
+      "mother": {
+        "fullName": "Valeria Messalina",
+        "url": "https://it.wikipedia.org/wiki/Valeria_Messalina"
+      },
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Britannicus-Louvre.jpg/260px-Britannicus-Louvre.jpg",
+      "deathDate": "11 febbraio 55 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_giulio-claudia"
+    },
+    "https://it.wikipedia.org/wiki/Settimio_Severo": {
+      "spouses": {
+        "Giulia Domna": "https://it.wikipedia.org/wiki/Giulia_Domna",
+        "Paccia Marciana": null
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Publio Settimio Geta",
+        "url": null
+      },
+      "reignEndDate": "4 febbraio 211 d.C",
+      "successors": {
+        "Geta": "https://it.wikipedia.org/wiki/Geta",
+        "Caracalla": "https://it.wikipedia.org/wiki/Caracalla"
+      },
+      "fullName": "Settimio Severo",
+      "birthDate": "11 aprile 146 d.C",
+      "mother": {
+        "fullName": "Fulvia Pia",
+        "url": null
+      },
+      "reignBeginningDate": "9 aprile 193 d.C",
+      "children": {
+        "Geta": "https://it.wikipedia.org/wiki/Geta",
+        "Caracalla": "https://it.wikipedia.org/wiki/Caracalla"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Septimius_Severus_Glyptothek_Munich_357.jpg/227px-Septimius_Severus_Glyptothek_Munich_357.jpg",
+      "deathDate": "4 febbraio 211 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_severiana"
+    },
+    "https://it.wikipedia.org/wiki/Antonia_minore": {
+      "spouses": {
+        "Druso maggiore": "https://it.wikipedia.org/wiki/Druso_maggiore"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Marco Antonio",
+        "url": "https://it.wikipedia.org/wiki/Marco_Antonio"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Antonia minore",
+      "birthDate": "31 gennaio 36 a.C.",
+      "mother": {
+        "fullName": "Ottavia minore",
+        "url": "https://it.wikipedia.org/wiki/Ottavia_minore"
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Claudia Livilla": "https://it.wikipedia.org/wiki/Claudia_Livilla",
+        "Claudio": "https://it.wikipedia.org/wiki/Claudio",
+        "Germanico": "https://it.wikipedia.org/wiki/Germanico_Giulio_Cesare"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Antonia_Minor_Louvre_Ma1229.jpg/200px-Antonia_Minor_Louvre_Ma1229.jpg",
+      "deathDate": "maggio 37 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Gens_Antonia"
+    },
+    "https://it.wikipedia.org/wiki/Claudia_Antonia": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Claudia Antonia",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Claudia_Antonia_Domus_Romana_Mdina.jpg/220px-Claudia_Antonia_Domus_Romana_Mdina.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Egnazia_Mariniana": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Egnazia Mariniana",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/RteMariniana_Antoninianus.jpg/220px-RteMariniana_Antoninianus.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Flavia_Massimiana_Teodora": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Teodora",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bronze-Flavia_Maximiana_Theodora-trier_RIC_65.jpg/220px-Bronze-Flavia_Maximiana_Theodora-trier_RIC_65.jpg",
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Livia_Drusilla": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Marco Livio Druso Claudiano",
+        "url": "https://it.wikipedia.org/wiki/Marco_Livio_Druso_Claudiano"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Livia Drusilla",
+      "birthDate": "30 gennaio 58 a.C.",
+      "mother": {
+        "fullName": "Alfidia",
+        "url": "https://it.wikipedia.org/wiki/Alfidia"
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Druso": "https://it.wikipedia.org/wiki/Druso_maggiore",
+        "Tiberio": "https://it.wikipedia.org/wiki/Tiberio"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/%28Toulouse%29_Livie_Mus%C3%A9e_Saint-Raymond_Ra_340.jpg/216px-%28Toulouse%29_Livie_Mus%C3%A9e_Saint-Raymond_Ra_340.jpg",
+      "deathDate": "28 settembre 29 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_giulio-claudia"
+    },
+    "https://it.wikipedia.org/wiki/Egnazio_Mariniano": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Egnazio Mariniano",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Costantino_I": {
+      "spouses": {
+        "Minervina": "https://it.wikipedia.org/wiki/Minervina",
+        "Fausta": "https://it.wikipedia.org/wiki/Fausta"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Costanzo Cloro",
+        "url": "https://it.wikipedia.org/wiki/Costanzo_Cloro"
+      },
+      "reignEndDate": "22 maggio 337 d.C",
+      "successors": {
+        "Costantino II": "https://it.wikipedia.org/wiki/Costantino_II",
+        "Costanzo II": "https://it.wikipedia.org/wiki/Costanzo_II",
+        "Dalmazio": "https://it.wikipedia.org/wiki/Flavio_Dalmazio_(cesare)",
+        "Costante I": "https://it.wikipedia.org/wiki/Costante_I"
+      },
+      "fullName": "Costantino I",
+      "birthDate": "27 febbraio 274 d.C",
+      "mother": {
+        "fullName": "Elena",
+        "url": "https://it.wikipedia.org/wiki/Flavia_Giulia_Elena"
+      },
+      "reignBeginningDate": "25 luglio d.C",
+      "children": {
+        "Crispo": "https://it.wikipedia.org/wiki/Crispo",
+        "Costantino II": "https://it.wikipedia.org/wiki/Costantino_II",
+        "Costanzo II": "https://it.wikipedia.org/wiki/Costanzo_II",
+        "Costantina": "https://it.wikipedia.org/wiki/Costantina",
+        "Costante I": "https://it.wikipedia.org/wiki/Costante_I",
+        "Elena": "https://it.wikipedia.org/wiki/Elena_(figlia_di_Costantino)"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rome-Capitole-StatueConstantin.jpg/225px-Rome-Capitole-StatueConstantin.jpg",
+      "deathDate": "22 maggio 337 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_costantiniana"
+    },
+    "https://it.wikipedia.org/wiki/Minervina": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Minervina",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Claudia_Ottavia": {
+      "spouses": {
+        "Nerone": "https://it.wikipedia.org/wiki/Nerone"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Claudio",
+        "url": "https://it.wikipedia.org/wiki/Claudio"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Claudia Ottavia",
+      "birthDate": "40 d.C",
+      "mother": {
+        "fullName": "Valeria Messalina",
+        "url": "https://it.wikipedia.org/wiki/Valeria_Messalina"
+      },
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Clevelandart_1925.943.jpg/235px-Clevelandart_1925.943.jpg",
+      "deathDate": "8 giugno 62 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_giulio-claudia"
+    },
+    "https://it.wikipedia.org/wiki/Marco_Annio_Vero_(pretore)": {
+      "spouses": {
+        "Domizia Lucilla": "https://it.wikipedia.org/wiki/Domizia_Lucilla"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Marco Annio Vero",
+        "url": "https://it.wikipedia.org/wiki/Marco_Annio_Vero_(console_97)"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Marco Annio Vero",
+      "birthDate": null,
+      "mother": {
+        "fullName": "Rupilia Faustina",
+        "url": "https://it.wikipedia.org/wiki/Rupilia_Faustina"
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Cornificia": "https://it.wikipedia.org/wiki/Cornificia",
+        "Marco Aurelio": "https://it.wikipedia.org/wiki/Marco_Aurelio"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Annius_Verus-praetor.jpg/260px-Annius_Verus-praetor.jpg",
+      "deathDate": "124 d.C",
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Antonino_Pio": {
+      "spouses": {
+        "Annia Galeria Faustina": "https://it.wikipedia.org/wiki/Faustina_maggiore"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {
+        "Lucio Vero": "https://it.wikipedia.org/wiki/Lucio_Vero",
+        "Marco Aurelio": "https://it.wikipedia.org/wiki/Marco_Aurelio"
+      },
+      "father": {
+        "fullName": "Tito Aurelio Fulvo",
+        "url": null
+      },
+      "reignEndDate": "7 marzo 161 d.C",
+      "successors": {
+        "Lucio Vero": "https://it.wikipedia.org/wiki/Lucio_Vero",
+        "Marco Aurelio": "https://it.wikipedia.org/wiki/Marco_Aurelio"
+      },
+      "fullName": "Antonino Pio",
+      "birthDate": "19 settembre 86 d.C",
+      "mother": {
+        "fullName": "Arria Fadilla",
+        "url": null
+      },
+      "reignBeginningDate": "11 luglio 138 d.C",
+      "children": {
+        "Annia Galeria Faustina": "https://it.wikipedia.org/wiki/Faustina_minore",
+        "Aurelia Fadilla": null
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Antoninus_Pius_MAN_Napoli_Inv6071.jpg/260px-Antoninus_Pius_MAN_Napoli_Inv6071.jpg",
+      "deathDate": "7 marzo 161 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_degli_Antonini"
+    },
+    "https://it.wikipedia.org/wiki/Pertinace": {
+      "spouses": {
+        "Flavia Titiana": "https://it.wikipedia.org/wiki/Flavia_Titiana"
+      },
+      "adoptiveFather": null,
+      "role": "Emperor",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Publio Elvio Successo",
+        "url": null
+      },
+      "reignEndDate": "28 marzo 193 d.C",
+      "successors": {
+        "Didio Giuliano": "https://it.wikipedia.org/wiki/Didio_Giuliano"
+      },
+      "fullName": "Pertinace",
+      "birthDate": "agosto 126 d.C",
+      "mother": {
+        "fullName": "Lollia Acilia",
+        "url": null
+      },
+      "reignBeginningDate": "1 gennaio 193 d.C",
+      "children": {
+        "Publio Elvio Pertinace": "https://it.wikipedia.org/wiki/Publio_Elvio_Pertinace_(figlio)"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Alba_Iulia_National_Museum_of_the_Union_2011_-_Possible_Statue_of_Roman_Emperor_Pertinax_Close_Up%2C_Apulum.JPG/260px-Alba_Iulia_National_Museum_of_the_Union_2011_-_Possible_Statue_of_Roman_Emperor_Pertinax_Close_Up%2C_Apulum.JPG",
+      "deathDate": "28 marzo 193 d.C",
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Publio_Licinio_Valeriano_(console_265)": {
+      "spouses": {},
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": null,
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Valeriano il giovane",
+      "birthDate": null,
+      "mother": null,
+      "reignBeginningDate": null,
+      "children": {},
+      "imageUrl": null,
+      "deathDate": null,
+      "dynastyPageUrl": null
+    },
+    "https://it.wikipedia.org/wiki/Agrippina_minore": {
+      "spouses": {
+        "Gneo Domizio Enobarbo": "https://it.wikipedia.org/wiki/Gneo_Domizio_Enobarbo_(console_32)",
+        "Gaio Sallustio Passieno Crispo": "https://it.wikipedia.org/wiki/Gaio_Sallustio_Passieno_Crispo",
+        "Claudio": "https://it.wikipedia.org/wiki/Claudio"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Germanico",
+        "url": "https://it.wikipedia.org/wiki/Germanico_Giulio_Cesare"
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Agrippina minore",
+      "birthDate": "6 novembre 15 d.C",
+      "mother": {
+        "fullName": "Agrippina maggiore",
+        "url": "https://it.wikipedia.org/wiki/Agrippina_maggiore"
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Nerone": "https://it.wikipedia.org/wiki/Nerone"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/9736_-_Museo_archeologico_di_Milano_-_Agrippina_Minore_%2849-50_d.C.%29_-_Foto_Giovanni_Dall%27Orto%2C_13-mar-2012.jpg/200px-9736_-_Museo_archeologico_di_Milano_-_Agrippina_Minore_%2849-50_d.C.%29_-_Foto_Giovanni_Dall%27Orto%2C_13-mar-2012.jpg",
+      "deathDate": "marzo 59 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_giulio-claudia"
+    },
+    "https://it.wikipedia.org/wiki/Poppea": {
+      "spouses": {
+        "Nerone": "https://it.wikipedia.org/wiki/Nerone",
+        "Rufrio Crispino": "https://it.wikipedia.org/wiki/Rufrio_Crispino",
+        "Otone": "https://it.wikipedia.org/wiki/Otone"
+      },
+      "adoptiveFather": null,
+      "role": "Normal",
+      "adoptedChildren": {},
+      "father": {
+        "fullName": "Tito Ollio",
+        "url": null
+      },
+      "reignEndDate": null,
+      "successors": {},
+      "fullName": "Poppea",
+      "birthDate": "30 d.C",
+      "mother": {
+        "fullName": "Poppea Sabina",
+        "url": null
+      },
+      "reignBeginningDate": null,
+      "children": {
+        "Claudia Augusta": "https://it.wikipedia.org/wiki/Claudia_Augusta",
+        "Rufrio Crispino": null
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Poppea_Sabina_-_MNR_Palazzo_Massimo.jpg/175px-Poppea_Sabina_-_MNR_Palazzo_Massimo.jpg",
+      "deathDate": "65 d.C",
+      "dynastyPageUrl": "https://it.wikipedia.org/wiki/Dinastia_giulio-claudia"
+    }
+  }
+}
