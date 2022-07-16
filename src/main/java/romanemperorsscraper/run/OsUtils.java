@@ -71,7 +71,7 @@ public class OsUtils {
 
     /**
      * Create and get a new WebDriver instance based on the user's first supported
-     * browser found, with a Firefox > Chrome > Edge > (Safari / IE) priority;<br>
+     * browser found, with a Firefox {@literal >} Chrome {@literal >} Edge {@literal >} (Safari / IE) priority;<br>
      * <br>
      * Set the drivers' path if they're needed and were not already set.
      *

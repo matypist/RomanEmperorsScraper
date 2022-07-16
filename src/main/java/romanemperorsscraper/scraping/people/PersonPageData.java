@@ -866,7 +866,7 @@ public class PersonPageData {
     /**
      * Check for every element in the input if it can be
      * part of a possible date, so the output contain
-     * numbers, months, a.C or d.C, and ->
+     * numbers, months, a.C or d.C, and -{@literal >}
      * as well it contains particular cases like an or in the middle of two dates
      * date1 or date2, and the output will be date1 or date2
      *
