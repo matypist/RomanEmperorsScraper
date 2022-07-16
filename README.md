@@ -57,7 +57,7 @@ Thanks to the use of [Maven](https://maven.apache.org/) and the corresponding co
 
 ### Running
 
-To facilitate the running of the program we packaged it as a JAR for you, so that running it is as easy as double clicking on the JAR file or executing the following command on your terminal:
+To facilitate the running of the program we [packaged it as a JAR](https://github.com/matypist/RomanEmperorsScraper/releases/latest/) for you, so that running it is as easy as double clicking on the JAR file or executing the following command on your terminal:
 ```
 java -jar RomanEmperorsScraper.jar
 ```
