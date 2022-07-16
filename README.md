@@ -57,7 +57,7 @@ Thanks to the use of [Maven](https://maven.apache.org/) and the corresponding co
 
 ### Running
 
-To facilitate the running of the program we packaged it as a JAR for you, so that running it is as easy as double clicking on the JAR file or executing the following command on your terminal:
+To facilitate the running of the program we [packaged it as a JAR](https://github.com/matypist/RomanEmperorsScraper/releases/latest/) for you, so that running it is as easy as double clicking on the JAR file or executing the following command on your terminal:
 ```
 java -jar RomanEmperorsScraper.jar
 ```
@@ -85,7 +85,7 @@ If you wish to know more about our classes and methods please feel free to check
 | ![](src/main/resources/resources/images/icons/people/GoToSuccessorButton.png)         | [people/GoToSuccessorButton.png](src/main/resources/resources/images/icons/people/GoToSuccessorButton.png)                 | [Icons8](https://icons8.com/)                   | [Icons8](https://icons8.com/about)                                 |
 | ![](src/main/resources/resources/images/icons/tree/BackToChoiceFrameButton.png)       | [tree/BackToChoiceFrameButton.png](src/main/resources/resources/images/icons/tree/BackToChoiceFrameButton.png)             | [Icons8](https://icons8.com/)                   | [Icons8](https://icons8.com/about)                                 |
 | ![](src/main/resources/resources/images/icons/tree/PeopleListOpenButton.png)          | [tree/PeopleListOpenButton.png](src/main/resources/resources/images/icons/tree/PeopleListOpenButton.png)                   | [Icons8](https://icons8.com/)                   | [Icons8](https://icons8.com/about)                                 |
-| ![](.github/AppIcon.png)                                                              | [AppIcon.png](src/main/resources/resources/images/icons/AppIcon.png)                                                       | [HiClipart](https://www.hiclipart.com/)         |                                                                    |
+| ![](src/main/resources/resources/images/icons/AppIcon.png)                            | [AppIcon.png](src/main/resources/resources/images/icons/AppIcon.png)                                                       | [HiClipart](https://www.hiclipart.com/)         |                                                                    |
 
 Some other icons used in our program (like those named with a '_roll' suffix) are modified versions of the enumerated ones.
 
@@ -97,5 +97,5 @@ Some other icons used in our program (like those named with a '_roll' suffix) ar
 
 
 #### PersonCard default image
-![](.github/PersonCard_defaultImage.png)
+![](src/main/resources/resources/images/PersonCard_defaultImage.png)
 * Source: [Clipground](https://clipground.com/spqr-clipart.html)
