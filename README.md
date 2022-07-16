@@ -47,7 +47,7 @@ The project was finally presented orally on 15 July 2022 to Professors [Gabriele
 
 ### Compiling
 
-Thanks to the use of [Maven](https://maven.apache.org/) and the corresponding configuration file pom.xml distributed in this GitHub repository, you can import the project into your favourite IDE (in our case it was [Intellij IDEA](https://www.jetbrains.com/idea/), but we also tested it on [Eclipse](https://eclipseide.org/release/) for example) and easily compile and run it.
+Thanks to the use of [Maven](https://maven.apache.org/) and the corresponding configuration file ([pom.xml](pom.xml)) distributed in this GitHub repository, you can import the project into your favourite IDE (in our case it was [Intellij IDEA](https://www.jetbrains.com/idea/), but we also tested it on [Eclipse](https://eclipseide.org/release/) for example) and easily compile and run it.
 
 ### Requirements
 
